@@ -1,0 +1,8 @@
+G1_Pouring_Dataset start at Tue 26 Nov 2024 06:45:05 PM CST
+G1_Pouring_Dataset end at Tue 26 Nov 2024 06:50:21 PM CST
+UnitreeG1_DualArmGrasping start at Tue 26 Nov 2024 06:50:21 PM CST
+UnitreeG1_DualArmGrasping end at Tue 26 Nov 2024 06:56:09 PM CST
+G1_ObjectPlacement_Dataset start at Tue 26 Nov 2024 06:56:09 PM CST
+G1_ObjectPlacement_Dataset end at Tue 26 Nov 2024 07:00:38 PM CST
+G1_CameraPackaging_Dataset start at Tue 26 Nov 2024 07:00:38 PM CST
+G1_CameraPackaging_Dataset end at Tue 26 Nov 2024 07:06:33 PM CST

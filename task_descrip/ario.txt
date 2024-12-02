@@ -1,0 +1,47 @@
+grasp Juice and put on yellow
+push ADMilk to yellow
+push CocaCola to red
+grasp Pepsi and put on green
+push Juice to red
+push ADMilk to green
+grasp ADMilk and put on yellow
+push CocaCola to yellow
+grasp Juice and put on green
+grasp Juice and put on blue
+push Starbucks to blue
+push Pepsi to yellow
+pick Juice
+grasp Starbucks and put on red
+push Pepsi to red
+push Pepsi to green
+grasp CocaCola and put on red
+grasp Starbucks and put on green
+push Starbucks to red
+grasp Starbucks and put on yellow
+grasp ADMilk and put on blue
+push Starbucks to yellow
+grasp Pepsi and put on red
+pick Pepsi
+push ADMilk to blue
+grasp Pepsi and put on yellow
+grasp Juice and put on red
+push ADMilk to red
+push Starbucks to green
+grasp CocaCola and put on green
+grasp CocaCola and put on yellow
+pick Starbucks
+grasp CocaCola and put on blue
+push Juice to blue
+push Juice to yellow
+push Pepsi to blue
+push Juice to green
+grasp ADMilk and put on green
+grasp Pepsi and put on blue
+grasp ADMilk and put on red
+push CocaCola to blue
+push CocaCola to green
+grasp Starbucks and put on blue
+pick ADMilk
+pick CocaCola
+Grab the cup and fetch water from the dispenser
+Remove the USB flash drive from the right device and insert it into the USB hole on the left device
