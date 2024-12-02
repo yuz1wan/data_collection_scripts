@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pick Starbucks".
+There are 50 candidate verbs: 
+1146. pick. The definition is: look for and gather. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1410. dicker. The definition is: negotiate the terms of an exchange. The lexname is: possession. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1148. procure. The definition is: get by special effort. The lexname is: possession. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+
+Output Format Example:
+1146. pick.
+1850. love.
+Strictly follow the output format above. Do not output analysis. 

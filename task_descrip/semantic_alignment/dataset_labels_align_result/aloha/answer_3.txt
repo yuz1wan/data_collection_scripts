@@ -1,0 +1,10 @@
+2210. exit.  
+1900. rise.  
+2074. climb.  
+2204. walk.  
+846. follow.  
+199. de-escalate.  
+1162. close.  
+1321. lift.  
+1655. run.  
+2071. launch.  

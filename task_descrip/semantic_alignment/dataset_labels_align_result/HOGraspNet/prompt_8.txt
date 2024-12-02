@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspSpoon".
+There are 50 candidate verbs: 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+884. spoonfeed. The definition is: feed with a spoon. The lexname is: consumption. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+521. reappraise. The definition is: appraise anew. The lexname is: cognition. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+2341. chaperone. The definition is: accompany as a chaperone. The lexname is: motion. 
+714. impress. The definition is: produce or try to produce a vivid impression of. The lexname is: cognition. 
+476. dispossess. The definition is: deprive of the possession of real estate. The lexname is: possession. 
+2589. inspire. The definition is: supply the inspiration for. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+509. scrimp. The definition is: subsist on a meager allowance. The lexname is: possession. 
+1183. intersperse. The definition is: introduce one's writing or speech with certain expressions. The lexname is: change. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1623. savor. The definition is: taste appreciatively. The lexname is: perception. 
+396. reap. The definition is: get or derive. The lexname is: possession. 
+767. wow. The definition is: impress greatly. The lexname is: emotion. 
+1452. dragoon. The definition is: compel by coercion, threats, or crude means. The lexname is: social. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+583. creep. The definition is: grow or spread, often in such a way as to cover (a surface). The lexname is: motion. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+1938. respond. The definition is: respond favorably or as hoped. The lexname is: cognition. 
+1599. inspect. The definition is: look over carefully. The lexname is: perception. 
+2525. ream. The definition is: enlarge with a reamer. The lexname is: change. 
+1214. superimpose. The definition is: place on top of. The lexname is: contact. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+2358. sponsor. The definition is: assume responsibility for or leadership of. The lexname is: possession. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+
+Output Format Example:
+2394. spoon.
+884. spoonfeed.
+Strictly follow the output format above. Do not output analysis. 

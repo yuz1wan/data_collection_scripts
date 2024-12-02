@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "pour_wine", which is annotated as "Pour wine from the bottle into the glass.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+1232. cork. The definition is: close a bottle with a cork. The lexname is: contact. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2256. drip. The definition is: fall in drops. The lexname is: motion. 
+1382. drip. The definition is: fall in drops. The lexname is: motion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+
+Output Format Example:
+1332. bottle.
+1383. pour.
+Strictly follow the output format above. Do not output analysis. 

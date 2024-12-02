@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "put_tea_bag".
+There are 50 candidate verbs: 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1720. bay. The definition is: utter in deep prolonged tones. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1803. tag. The definition is: attach a tag or label to. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+1299. tag. The definition is: attach a tag or label to. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1512. tear. The definition is: to separate or be separated by force. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+341. tear. The definition is: to separate or be separated by force. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+
+Output Format Example:
+1326. bag.
+1203. tinge.
+Strictly follow the output format above. Do not output analysis. 

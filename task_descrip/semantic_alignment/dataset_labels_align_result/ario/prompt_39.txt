@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "grasp ADMilk and put on red".
+There are 50 candidate verbs: 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+2656. crack. The definition is: hit forcefully; deal a hard blow, making a cracking noise. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+521. reappraise. The definition is: appraise anew. The lexname is: cognition. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1994. add. The definition is: make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of. The lexname is: change. 
+396. reap. The definition is: get or derive. The lexname is: possession. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1060. adjust. The definition is: adapt or conform oneself to new or different conditions. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+
+Output Format Example:
+2638. grasp.
+2625. grasp.
+Strictly follow the output format above. Do not output analysis. 

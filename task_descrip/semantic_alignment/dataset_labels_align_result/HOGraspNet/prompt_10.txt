@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspSmallmarker".
+There are 50 candidate verbs: 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+1801. letter. The definition is: mark letters on or mark with letters. The lexname is: creation. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+367. shrink. The definition is: become smaller or draw together. The lexname is: change. 
+509. scrimp. The definition is: subsist on a meager allowance. The lexname is: possession. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2372. compensate. The definition is: make payment to; compensate. The lexname is: possession. 
+
+Output Format Example:
+707. gratify.
+357. trivialize.
+Strictly follow the output format above. Do not output analysis. 

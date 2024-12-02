@@ -1,0 +1,5 @@
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 

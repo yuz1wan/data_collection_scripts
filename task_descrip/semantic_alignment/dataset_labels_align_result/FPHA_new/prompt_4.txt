@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "close_peanut_butter", which is annotated as "Close the lid and twist it tightly onto the peanut butter jar.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+720. jar. The definition is: affect in a disagreeable way. The lexname is: emotion. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+500. last. The definition is: persist for a specified period of time. The lexname is: stative. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1232. cork. The definition is: close a bottle with a cork. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+
+Output Format Example:
+1344. jar.
+1224. butter.
+Strictly follow the output format above. Do not output analysis. 

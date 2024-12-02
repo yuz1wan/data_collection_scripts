@@ -1,0 +1,4 @@
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 

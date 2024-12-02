@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "put_salt".
+There are 50 candidate verbs: 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+993. hail. The definition is: call for. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+723. lull. The definition is: calm by deception. The lexname is: emotion. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1077. hail. The definition is: greet enthusiastically or joyfully. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+
+Output Format Example:
+1281. salt.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

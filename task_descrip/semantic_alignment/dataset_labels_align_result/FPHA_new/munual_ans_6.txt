@@ -1,0 +1,3 @@
+2422. sprinkle. The definition is: scatter with liquid; wet lightly. The lexname is: change. 
+2418. spatter. The definition is: spot, splash, or soil. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 

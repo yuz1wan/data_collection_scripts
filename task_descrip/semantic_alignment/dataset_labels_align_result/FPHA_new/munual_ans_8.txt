@@ -1,0 +1,5 @@
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 

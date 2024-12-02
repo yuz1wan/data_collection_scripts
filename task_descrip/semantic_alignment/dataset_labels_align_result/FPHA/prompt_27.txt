@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "squeeze_paper".
+There are 50 candidate verbs: 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1001. compress. The definition is: squeeze or press together. The lexname is: contact. 
+358. compress. The definition is: squeeze or press together. The lexname is: contact. 
+496. seize. The definition is: take or capture by force. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+643. suffer. The definition is: feel unwell or uncomfortable. The lexname is: body. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+293. soften. The definition is: become soft or softer. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2405. wedge. The definition is: squeeze like a wedge into a tight space. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2434. daub. The definition is: cover (a surface) by smearing (a substance) over it. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2129. cozen. The definition is: cheat or trick. The lexname is: possession. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+1266. paper.
+1001. compress.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspDice".
+There are 50 candidate verbs: 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+521. reappraise. The definition is: appraise anew. The lexname is: cognition. 
+1206. emplace. The definition is: put into place or position. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1183. intersperse. The definition is: introduce one's writing or speech with certain expressions. The lexname is: change. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+476. dispossess. The definition is: deprive of the possession of real estate. The lexname is: possession. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+
+Output Format Example:
+2604. disparage.
+357. trivialize.
+Strictly follow the output format above. Do not output analysis. 

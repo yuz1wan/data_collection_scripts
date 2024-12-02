@@ -1,0 +1,5 @@
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 

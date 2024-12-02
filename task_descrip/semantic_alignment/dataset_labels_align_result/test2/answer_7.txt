@@ -1,0 +1,10 @@
+2207. depart.
+1319. drive.
+2230. drive.
+844. take.
+2181. coast.
+844. take.
+2212. leave.
+128. drive.
+75. haul.
+2212. leave.

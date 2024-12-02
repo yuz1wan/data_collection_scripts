@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "push Juice to red".
+There are 50 candidate verbs: 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2527. push. The definition is: press, drive, or impel (someone) to action or completion of an action. The lexname is: communication. 
+1460. rush. The definition is: urge to an unnatural speed. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+2203. rush. The definition is: move fast. The lexname is: motion. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1149. pull. The definition is: take away. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+275. redden. The definition is: turn red or redder. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1279. rouge. The definition is: redden by applying rouge to. The lexname is: body. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1088. rule. The definition is: decide with authority. The lexname is: cognition. 
+227. fill. The definition is: become full. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+672. crush. The definition is: humiliate or depress completely. The lexname is: emotion. 
+
+Output Format Example:
+2699. push.
+1506. push.
+Strictly follow the output format above. Do not output analysis. 

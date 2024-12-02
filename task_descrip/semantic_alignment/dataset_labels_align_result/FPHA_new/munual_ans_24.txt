@@ -1,0 +1,2 @@
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 

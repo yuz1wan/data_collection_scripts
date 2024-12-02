@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspLarge_marker".
+There are 50 candidate verbs: 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2574. crayon. The definition is: write, draw, or trace with a crayon. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+367. shrink. The definition is: become smaller or draw together. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+
+Output Format Example:
+2576. draw.
+2329. draw.
+Strictly follow the output format above. Do not output analysis. 

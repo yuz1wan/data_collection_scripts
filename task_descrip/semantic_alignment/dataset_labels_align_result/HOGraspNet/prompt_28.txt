@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspFoldablephone".
+There are 50 candidate verbs: 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1786. photograph. The definition is: record on photographic film. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+2618. thank. The definition is: express gratitude or show appreciation to. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+84. explain. The definition is: define. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+1398. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1391. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1620. note. The definition is: make a written note of. The lexname is: communication. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+
+Output Format Example:
+1725. call.
+123. get_ahold_of.
+Strictly follow the output format above. Do not output analysis. 

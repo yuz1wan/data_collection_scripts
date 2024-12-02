@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "squeeze_paper", which is annotated as "squeeze paper.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1001. compress. The definition is: squeeze or press together. The lexname is: contact. 
+358. compress. The definition is: squeeze or press together. The lexname is: contact. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+496. seize. The definition is: take or capture by force. The lexname is: contact. 
+1863. swipe. The definition is: strike with a swiping motion. The lexname is: contact. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+2405. wedge. The definition is: squeeze like a wedge into a tight space. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+643. suffer. The definition is: feel unwell or uncomfortable. The lexname is: body. 
+1149. pull. The definition is: take away. The lexname is: change. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+
+Output Format Example:
+1266. paper.
+1001. compress.
+Strictly follow the output format above. Do not output analysis. 

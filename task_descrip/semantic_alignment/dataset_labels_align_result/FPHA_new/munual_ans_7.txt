@@ -1,0 +1,2 @@
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+884. spoonfeed. The definition is: feed with a spoon. The lexname is: consumption. 

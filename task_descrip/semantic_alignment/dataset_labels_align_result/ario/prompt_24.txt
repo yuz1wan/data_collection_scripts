@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "push ADMilk to blue".
+There are 50 candidate verbs: 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+380. abolish. The definition is: do away with. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2527. push. The definition is: press, drive, or impel (someone) to action or completion of an action. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1088. rule. The definition is: decide with authority. The lexname is: cognition. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+611. approve. The definition is: judge to be right or commendable; think well of. The lexname is: cognition. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1225. calk. The definition is: provide with calks. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+
+Output Format Example:
+488. milk.
+1236. drug.
+Strictly follow the output format above. Do not output analysis. 

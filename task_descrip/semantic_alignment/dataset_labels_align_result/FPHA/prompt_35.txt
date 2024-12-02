@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "unfold_glasses".
+There are 50 candidate verbs: 
+1632. goggle. The definition is: look with amazement; look stupidly. The lexname is: perception. 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1630. gaze. The definition is: look at with fixed eyes. The lexname is: perception. 
+372. unbend. The definition is: free from flexure. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+579. underlie. The definition is: provide with a base, support, lining, or backing. The lexname is: consumption. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1219. blindfold. The definition is: cover the eyes of (someone) to prevent him from seeing. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+226. federate. The definition is: unite on a federal basis or band together as a league. The lexname is: change. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1631. glance. The definition is: throw a glance at; take a brief look at. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1060. adjust. The definition is: adapt or conform oneself to new or different conditions. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+
+Output Format Example:
+1632. goggle.
+1002. fold.
+Strictly follow the output format above. Do not output analysis. 

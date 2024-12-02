@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "open_soda_can", which is annotated as "Open the soda can.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+263. open. The definition is: become open. The lexname is: contact. 
+899. chew. The definition is: chew (food); to bite and grind with the teeth. The lexname is: consumption. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1331. bin. The definition is: store in bins. The lexname is: contact. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1994. add. The definition is: make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of. The lexname is: change. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+217. empty. The definition is: become empty or void of its content. The lexname is: change. 
+
+Output Format Example:
+1335. can.
+1339. cup.
+Strictly follow the output format above. Do not output analysis. 

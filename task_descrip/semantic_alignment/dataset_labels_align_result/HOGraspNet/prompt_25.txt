@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspStapler".
+There are 50 candidate verbs: 
+1493. unstaple. The definition is: take the staples off. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+42. staple. The definition is: secure or fasten with a staple or staples. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+767. wow. The definition is: impress greatly. The lexname is: emotion. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+521. reappraise. The definition is: appraise anew. The lexname is: cognition. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1183. intersperse. The definition is: introduce one's writing or speech with certain expressions. The lexname is: change. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+476. dispossess. The definition is: deprive of the possession of real estate. The lexname is: possession. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+509. scrimp. The definition is: subsist on a meager allowance. The lexname is: possession. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+2372. compensate. The definition is: make payment to; compensate. The lexname is: possession. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+16. fetter. The definition is: restrain with fetters. The lexname is: contact. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+396. reap. The definition is: get or derive. The lexname is: possession. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+583. creep. The definition is: grow or spread, often in such a way as to cover (a surface). The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+
+Output Format Example:
+1493. unstaple.
+2638. grasp.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "push CocaCola to green".
+There are 50 candidate verbs: 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2527. push. The definition is: press, drive, or impel (someone) to action or completion of an action. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1173. fill. The definition is: become full. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+227. fill. The definition is: become full. The lexname is: change. 
+1050. generate. The definition is: produce (energy). The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+273. quicken. The definition is: give life or energy to. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+
+Output Format Example:
+740. refresh.
+1272. poison.
+Strictly follow the output format above. Do not output analysis. 

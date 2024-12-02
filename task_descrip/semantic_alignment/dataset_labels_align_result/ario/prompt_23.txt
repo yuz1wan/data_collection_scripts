@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pick Pepsi".
+There are 50 candidate verbs: 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1146. pick. The definition is: look for and gather. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1856. peck. The definition is: hit lightly with a picking motion. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1622. perceive. The definition is: to become aware of through the senses. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2680. strike. The definition is: pierce with force. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2610. mock. The definition is: treat with contempt. The lexname is: communication. 
+1410. dicker. The definition is: negotiate the terms of an exchange. The lexname is: possession. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+943. pop. The definition is: make a sharp explosive noise. The lexname is: perception. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+476. dispossess. The definition is: deprive of the possession of real estate. The lexname is: possession. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+
+Output Format Example:
+2456. put.
+1638. peer.
+Strictly follow the output format above. Do not output analysis. 

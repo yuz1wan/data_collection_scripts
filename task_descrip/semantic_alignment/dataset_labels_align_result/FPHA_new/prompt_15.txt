@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "put_salt", which is annotated as "Shake the salt shaker to add salt.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+993. hail. The definition is: call for. The lexname is: communication. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1077. hail. The definition is: greet enthusiastically or joyfully. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1386. spill. The definition is: cause or allow (a solid substance) to flow or run out or over. The lexname is: contact. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+
+Output Format Example:
+1281. salt.
+1195. sauce.
+Strictly follow the output format above. Do not output analysis. 

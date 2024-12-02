@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspKnife".
+There are 50 candidate verbs: 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+521. reappraise. The definition is: appraise anew. The lexname is: cognition. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1453. goad. The definition is: stab or urge on as if with a pointed stick. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1827. generate. The definition is: bring into existence. The lexname is: creation. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+651. agitate. The definition is: cause to be agitated, excited, or roused. The lexname is: emotion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+509. scrimp. The definition is: subsist on a meager allowance. The lexname is: possession. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+2589. inspire. The definition is: supply the inspiration for. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1893. smite. The definition is: inflict a heavy blow on, with the hand, a tool, or a weapon. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+212. disintegrate. The definition is: break into parts or components or lose cohesion or unity. The lexname is: change. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+105. gripe. The definition is: complain. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+
+Output Format Example:
+1878. knife.
+1588. knife.
+Strictly follow the output format above. Do not output analysis. 

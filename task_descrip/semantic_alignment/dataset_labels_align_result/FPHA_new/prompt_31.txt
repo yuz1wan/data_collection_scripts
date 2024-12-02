@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "flip_pages", which is annotated as "Turn multiple pages of the book consecutively.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+1019. publish. The definition is: have (one's written work) issued for publication. The lexname is: creation. 
+1214. superimpose. The definition is: place on top of. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2688. memorize. The definition is: commit to memory; learn by heart. The lexname is: cognition. 
+2592. approve_of. The definition is: judge to be right or commendable; think well of. The lexname is: cognition. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+90. sum_up. The definition is: give a summary (of). The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+
+Output Format Example:
+1266. paper.
+2044. quote.
+Strictly follow the output format above. Do not output analysis. 

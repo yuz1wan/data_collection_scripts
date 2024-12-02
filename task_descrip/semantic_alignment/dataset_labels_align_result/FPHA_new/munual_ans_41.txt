@@ -1,0 +1,6 @@
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+2256. drip. The definition is: fall in drops. The lexname is: motion. 
+1382. drip. The definition is: fall in drops. The lexname is: motion. 

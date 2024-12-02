@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "grasp Starbucks and put on yellow".
+There are 50 candidate verbs: 
+327. yellow. The definition is: turn yellow. The lexname is: change. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+330. crack. The definition is: cause to become cracked. The lexname is: change. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+298. steady. The definition is: make steady. The lexname is: change. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+721. jolt. The definition is: disturb (someone's) composure. The lexname is: emotion. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1102. carry_through. The definition is: put in effect. The lexname is: creation. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1863. swipe. The definition is: strike with a swiping motion. The lexname is: contact. 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+583. creep. The definition is: grow or spread, often in such a way as to cover (a surface). The lexname is: motion. 
+618. despair. The definition is: abandon hope; give up hope; lose heart. The lexname is: emotion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+922. crack. The definition is: make a very sharp explosive sound. The lexname is: perception. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+
+Output Format Example:
+327. yellow.
+2638. grasp.
+Strictly follow the output format above. Do not output analysis. 

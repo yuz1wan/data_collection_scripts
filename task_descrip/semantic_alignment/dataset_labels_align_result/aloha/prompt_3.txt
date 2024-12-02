@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Take the elevator to the 1st floor.".
+There are 50 candidate verbs: 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+2210. exit. The definition is: move out of or depart from. The lexname is: motion. 
+199. de-escalate. The definition is: reduce the level or intensity or size or scope of. The lexname is: change. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1927. overcome. The definition is: get on top of; deal with successfully. The lexname is: competition. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2691. attend. The definition is: take charge of or deal with. The lexname is: social. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+261. narrow. The definition is: make or become more narrow or restricted. The lexname is: change. 
+1900. rise. The definition is: move upward. The lexname is: motion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+
+Output Format Example:
+1321. lift.
+2210. exit.
+Strictly follow the output format above. Do not output analysis. 

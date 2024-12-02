@@ -1,0 +1,3 @@
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 

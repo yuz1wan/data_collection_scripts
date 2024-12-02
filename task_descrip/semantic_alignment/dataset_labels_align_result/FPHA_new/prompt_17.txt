@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "close_liquid_soap", which is annotated as "Close the flip-top cap of the liquid soap bottle.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2506. squish. The definition is: put (a liquid) into a container or another place by means of a squirting action. The lexname is: contact. 
+2395. squish. The definition is: put (a liquid) into a container or another place by means of a squirting action. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2259. exude. The definition is: release (a liquid) in drops or small quantities. The lexname is: body. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+942. plop. The definition is: drop with the sound of something falling into water. The lexname is: motion. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1318. drop. The definition is: let fall to the ground. The lexname is: motion. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+2274. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+480. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+
+Output Format Example:
+876. wash.
+2246. wash.
+Strictly follow the output format above. Do not output analysis. 

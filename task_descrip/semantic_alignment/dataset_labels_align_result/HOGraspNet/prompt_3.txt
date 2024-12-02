@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspApple".
+There are 50 candidate verbs: 
+521. reappraise. The definition is: appraise anew. The lexname is: cognition. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+2589. inspire. The definition is: supply the inspiration for. The lexname is: creation. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1050. generate. The definition is: produce (energy). The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+767. wow. The definition is: impress greatly. The lexname is: emotion. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+105. gripe. The definition is: complain. The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+618. despair. The definition is: abandon hope; give up hope; lose heart. The lexname is: emotion. 
+1016. mass-produce. The definition is: produce on a large scale. The lexname is: creation. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+2372. compensate. The definition is: make payment to; compensate. The lexname is: possession. 
+
+Output Format Example:
+521. reappraise.
+707. gratify.
+Strictly follow the output format above. Do not output analysis. 

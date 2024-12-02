@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "scratch_sponge".
+There are 50 candidate verbs: 
+1128. sponge. The definition is: gather sponges, in the ocean. The lexname is: contact. 
+377. sponge. The definition is: erase with a sponge; as of words on a blackboard. The lexname is: contact. 
+2116. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2522. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2551. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1858. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2521. scrape. The definition is: scratch repeatedly. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1965. splice. The definition is: join by interweaving strands. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+398. separate. The definition is: divide into components or constituents. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1669. starch. The definition is: stiffen with starch. The lexname is: change. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1292. starch. The definition is: stiffen with starch. The lexname is: change. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+
+Output Format Example:
+1128. sponge.
+377. sponge.
+Strictly follow the output format above. Do not output analysis. 

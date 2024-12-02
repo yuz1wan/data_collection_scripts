@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "open_juice_bottle", which is annotated as "Twist the cap off the juice bottle.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1652. use. The definition is: put into service; make work or employ for a particular purpose or for its inherent or natural purpose. The lexname is: consumption. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+263. open. The definition is: become open. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+899. chew. The definition is: chew (food); to bite and grind with the teeth. The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2542. bite. The definition is: to grip, cut off, or tear with or as if with the teeth or jaws. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1851. bite. The definition is: to grip, cut off, or tear with or as if with the teeth or jaws. The lexname is: contact. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+217. empty. The definition is: become empty or void of its content. The lexname is: change. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+
+Output Format Example:
+1332. bottle.
+880. bottlefeed.
+Strictly follow the output format above. Do not output analysis. 

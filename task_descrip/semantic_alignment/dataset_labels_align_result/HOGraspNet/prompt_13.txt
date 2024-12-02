@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspHammer".
+There are 50 candidate verbs: 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2525. ream. The definition is: enlarge with a reamer. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+509. scrimp. The definition is: subsist on a meager allowance. The lexname is: possession. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1061. gear. The definition is: set the level or character of. The lexname is: change. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1058. transmute. The definition is: alter the nature of (elements). The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+336. granulate. The definition is: become granular. The lexname is: change. 
+815. scram. The definition is: leave immediately; used usually in the imperative form. The lexname is: motion. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2372. compensate. The definition is: make payment to; compensate. The lexname is: possession. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+105. gripe. The definition is: complain. The lexname is: communication. 
+1736. grunt. The definition is: issue a grunting, low, animal-like noise. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+
+Output Format Example:
+2400. hammer.
+2670. hammer.
+Strictly follow the output format above. Do not output analysis. 

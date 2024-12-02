@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tear_paper".
+There are 50 candidate verbs: 
+341. tear. The definition is: to separate or be separated by force. The lexname is: contact. 
+1512. tear. The definition is: to separate or be separated by force. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+834. tear. The definition is: move quickly and violently. The lexname is: motion. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+618. despair. The definition is: abandon hope; give up hope; lose heart. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+396. reap. The definition is: get or derive. The lexname is: possession. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+478. deprive. The definition is: take away. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+
+Output Format Example:
+341. tear.
+1512. tear.
+Strictly follow the output format above. Do not output analysis. 

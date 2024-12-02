@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "stir", which is annotated as "Stir in the cup.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2265. slop. The definition is: ladle clumsily. The lexname is: contact. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+906. slurp. The definition is: eat noisily. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+
+Output Format Example:
+1955. stir.
+598. stir.
+Strictly follow the output format above. Do not output analysis. 

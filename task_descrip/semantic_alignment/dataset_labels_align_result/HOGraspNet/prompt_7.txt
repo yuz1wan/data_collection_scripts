@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspPlate".
+There are 50 candidate verbs: 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+521. reappraise. The definition is: appraise anew. The lexname is: cognition. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+398. separate. The definition is: divide into components or constituents. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+212. disintegrate. The definition is: break into parts or components or lose cohesion or unity. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+105. gripe. The definition is: complain. The lexname is: communication. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2372. compensate. The definition is: make payment to; compensate. The lexname is: possession. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+
+Output Format Example:
+924. crepitate.
+707. gratify.
+Strictly follow the output format above. Do not output analysis. 

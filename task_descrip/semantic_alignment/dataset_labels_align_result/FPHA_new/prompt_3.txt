@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "open_peanut_butter", which is annotated as "Twist open the peanut butter jar.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+720. jar. The definition is: affect in a disagreeable way. The lexname is: emotion. 
+899. chew. The definition is: chew (food); to bite and grind with the teeth. The lexname is: consumption. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+263. open. The definition is: become open. The lexname is: contact. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+902. gnaw. The definition is: bite or chew on with the teeth. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+
+Output Format Example:
+1224. butter.
+1666. paint.
+Strictly follow the output format above. Do not output analysis. 

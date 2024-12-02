@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspMug".
+There are 50 candidate verbs: 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+333. crush. The definition is: become injured, broken, or distorted by pressure. The lexname is: change. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2490. crush. The definition is: become injured, broken, or distorted by pressure. The lexname is: change. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+672. crush. The definition is: humiliate or depress completely. The lexname is: emotion. 
+509. scrimp. The definition is: subsist on a meager allowance. The lexname is: possession. 
+105. gripe. The definition is: complain. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+1962. graft. The definition is: cause to grow together parts from different plants. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+524. aggregate. The definition is: gather in a mass, sum, or whole. The lexname is: contact. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1736. grunt. The definition is: issue a grunting, low, animal-like noise. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+
+Output Format Example:
+1339. cup.
+877. gulp.
+Strictly follow the output format above. Do not output analysis. 

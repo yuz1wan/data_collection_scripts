@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "squeeze_sponge", which is annotated as "Squeeze the sponge.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+1128. sponge. The definition is: gather sponges, in the ocean. The lexname is: contact. 
+377. sponge. The definition is: erase with a sponge; as of words on a blackboard. The lexname is: contact. 
+2405. wedge. The definition is: squeeze like a wedge into a tight space. The lexname is: contact. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+496. seize. The definition is: take or capture by force. The lexname is: contact. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+1001. compress. The definition is: squeeze or press together. The lexname is: contact. 
+358. compress. The definition is: squeeze or press together. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+295. sour. The definition is: make sour or more sour. The lexname is: perception. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2395. squish. The definition is: put (a liquid) into a container or another place by means of a squirting action. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2506. squish. The definition is: put (a liquid) into a container or another place by means of a squirting action. The lexname is: contact. 
+1445. shock. The definition is: surprise greatly; knock someone's socks off. The lexname is: emotion. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2115. scour. The definition is: rub hard or scrub. The lexname is: contact. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+959. squelch. The definition is: make a sucking sound. The lexname is: perception. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+1104. make. The definition is: engage in. The lexname is: social. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+
+Output Format Example:
+1128. sponge.
+377. sponge.
+Strictly follow the output format above. Do not output analysis. 

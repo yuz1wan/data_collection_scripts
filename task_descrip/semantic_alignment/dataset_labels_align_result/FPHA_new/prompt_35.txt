@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "unfold_glasses", which is annotated as "Unfold the glasses.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+1632. goggle. The definition is: look with amazement; look stupidly. The lexname is: perception. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1630. gaze. The definition is: look at with fixed eyes. The lexname is: perception. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1219. blindfold. The definition is: cover the eyes of (someone) to prevent him from seeing. The lexname is: contact. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+567. frame. The definition is: enclose in a frame, as of a picture. The lexname is: stative. 
+1240. frame. The definition is: enclose in a frame, as of a picture. The lexname is: stative. 
+1631. glance. The definition is: throw a glance at; take a brief look at. The lexname is: perception. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1309. wallpaper. The definition is: cover with wallpaper. The lexname is: contact. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+372. unbend. The definition is: free from flexure. The lexname is: contact. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1540. cross. The definition is: fold so as to resemble a cross. The lexname is: motion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1038. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+
+Output Format Example:
+1632. goggle.
+363. fold.
+Strictly follow the output format above. Do not output analysis. 

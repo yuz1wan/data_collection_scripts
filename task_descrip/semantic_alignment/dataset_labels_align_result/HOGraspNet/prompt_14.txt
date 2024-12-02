@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspBaseball".
+There are 50 candidate verbs: 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+521. reappraise. The definition is: appraise anew. The lexname is: cognition. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1827. generate. The definition is: bring into existence. The lexname is: creation. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+478. deprive. The definition is: take away. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+767. wow. The definition is: impress greatly. The lexname is: emotion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2589. inspire. The definition is: supply the inspiration for. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2618. thank. The definition is: express gratitude or show appreciation to. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+
+Output Format Example:
+2474. close.
+707. gratify.
+Strictly follow the output format above. Do not output analysis. 

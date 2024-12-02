@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "flip_sponge", which is annotated as "Flip the sponge block.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+377. sponge. The definition is: erase with a sponge; as of words on a blackboard. The lexname is: contact. 
+1128. sponge. The definition is: gather sponges, in the ocean. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1783. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+1805. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2437. heap. The definition is: fill to overflow. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+1214. superimpose. The definition is: place on top of. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+227. fill. The definition is: become full. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1173. fill. The definition is: become full. The lexname is: change. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+
+Output Format Example:
+377. sponge.
+1128. sponge.
+Strictly follow the output format above. Do not output analysis. 

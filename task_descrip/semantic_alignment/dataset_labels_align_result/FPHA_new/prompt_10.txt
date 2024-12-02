@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "open_milk", which is annotated as "Twist open the lid of the milk jug.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+1345. jug. The definition is: stew in an earthenware jug. The lexname is: change. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+73. wheel. The definition is: wheel somebody or something. The lexname is: motion. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+1331. bin. The definition is: store in bins. The lexname is: contact. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+899. chew. The definition is: chew (food); to bite and grind with the teeth. The lexname is: consumption. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+721. jolt. The definition is: disturb (someone's) composure. The lexname is: emotion. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+1318. drop. The definition is: let fall to the ground. The lexname is: motion. 
+1382. drip. The definition is: fall in drops. The lexname is: motion. 
+2256. drip. The definition is: fall in drops. The lexname is: motion. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+2267. spill. The definition is: pour out in drops or small quantities or as if in drops or small quantities. The lexname is: contact. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1173. fill. The definition is: become full. The lexname is: change. 
+
+Output Format Example:
+488. milk.
+1339. cup.
+Strictly follow the output format above. Do not output analysis. 

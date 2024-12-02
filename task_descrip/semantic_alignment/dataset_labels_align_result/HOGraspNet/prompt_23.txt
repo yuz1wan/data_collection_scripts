@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspScrub_cleanser_bottle".
+There are 50 candidate verbs: 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+1269. perfume. The definition is: apply perfume to. The lexname is: body. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2506. squish. The definition is: put (a liquid) into a container or another place by means of a squirting action. The lexname is: contact. 
+2395. squish. The definition is: put (a liquid) into a container or another place by means of a squirting action. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+872. groom. The definition is: care for one's external appearance. The lexname is: body. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+2115. scour. The definition is: rub hard or scrub. The lexname is: contact. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+
+Output Format Example:
+2246. wash.
+2318. wash.
+Strictly follow the output format above. Do not output analysis. 

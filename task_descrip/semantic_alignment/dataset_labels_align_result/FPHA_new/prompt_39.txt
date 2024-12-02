@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "receive_coin", which is annotated as "Accept the coin given by someone.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1010. coin. The definition is: make up. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+527. collect. The definition is: get or bring together. The lexname is: contact. 
+194. collect. The definition is: get or bring together. The lexname is: contact. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+991. buy. The definition is: accept as true. The lexname is: cognition. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+263. open. The definition is: become open. The lexname is: contact. 
+1944. collect. The definition is: gather or collect. The lexname is: possession. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2563. pay. The definition is: give money, usually in exchange for goods or services. The lexname is: possession. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+2296. recognize. The definition is: be fully aware or cognizant of. The lexname is: cognition. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+2386. cash. The definition is: exchange for cash. The lexname is: possession. 
+2471. meet. The definition is: collect in one place. The lexname is: social. 
+
+Output Format Example:
+2277. receive.
+2278. welcome.
+Strictly follow the output format above. Do not output analysis. 

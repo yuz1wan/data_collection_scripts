@@ -1,0 +1,5 @@
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 

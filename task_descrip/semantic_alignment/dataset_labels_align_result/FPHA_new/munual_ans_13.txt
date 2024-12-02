@@ -1,0 +1,2 @@
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 

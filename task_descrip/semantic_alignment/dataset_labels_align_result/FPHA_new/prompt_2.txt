@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "pour_juice_bottle", which is annotated as "Tilt the juice bottle and pour the juice into the cup, then set the juice bottle upright.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2399. funnel. The definition is: move or pour through a funnel. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2541. stub. The definition is: strike (one's toe) accidentally against an object. The lexname is: body. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+440. pulp. The definition is: remove the pulp from, as from a fruit. The lexname is: contact. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1652. use. The definition is: put into service; make work or employ for a particular purpose or for its inherent or natural purpose. The lexname is: consumption. 
+2267. spill. The definition is: pour out in drops or small quantities or as if in drops or small quantities. The lexname is: contact. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+721. jolt. The definition is: disturb (someone's) composure. The lexname is: emotion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+
+Output Format Example:
+1332. bottle.
+1339. cup.
+Strictly follow the output format above. Do not output analysis. 

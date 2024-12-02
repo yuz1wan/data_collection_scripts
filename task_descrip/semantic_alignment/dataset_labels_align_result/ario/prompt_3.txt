@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "grasp Pepsi and put on green".
+There are 50 candidate verbs: 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+1050. generate. The definition is: produce (energy). The lexname is: creation. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+583. creep. The definition is: grow or spread, often in such a way as to cover (a surface). The lexname is: motion. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1827. generate. The definition is: bring into existence. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1000. beat. The definition is: shape by beating. The lexname is: creation. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+263. open. The definition is: become open. The lexname is: contact. 
+298. steady. The definition is: make steady. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+383. depose. The definition is: force to leave (an office). The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+618. despair. The definition is: abandon hope; give up hope; lose heart. The lexname is: emotion. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+
+Output Format Example:
+2638. grasp.
+2625. grasp.
+Strictly follow the output format above. Do not output analysis. 

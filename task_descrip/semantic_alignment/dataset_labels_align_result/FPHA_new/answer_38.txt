@@ -1,0 +1,10 @@
+2379. give.
+2386. cash.
+2375. donate.
+2363. pay.
+2384. earn.
+2364. pay_out.
+2362. pay_off.
+2366. pay_back.
+2365. pay_up.
+2367. pay_up.

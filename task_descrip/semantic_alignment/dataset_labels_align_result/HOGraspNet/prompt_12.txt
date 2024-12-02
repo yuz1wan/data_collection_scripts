@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspFlat_screwdriver".
+There are 50 candidate verbs: 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1962. graft. The definition is: cause to grow together parts from different plants. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1453. goad. The definition is: stab or urge on as if with a pointed stick. The lexname is: contact. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+398. separate. The definition is: divide into components or constituents. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1827. generate. The definition is: bring into existence. The lexname is: creation. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+521. reappraise. The definition is: appraise anew. The lexname is: cognition. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+509. scrimp. The definition is: subsist on a meager allowance. The lexname is: possession. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+
+Output Format Example:
+1491. unscrew.
+1821. tool.
+Strictly follow the output format above. Do not output analysis. 

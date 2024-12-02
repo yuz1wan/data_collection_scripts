@@ -1,0 +1,10 @@
+1326. bag.
+2456. put.
+1332. bottle.
+2475. cut_out.
+443. seed.
+401. take_away.
+1062. fit.
+1065. leave.
+2212. leave.
+411. remove.

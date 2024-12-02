@@ -1,0 +1,45 @@
+open_juice_bottle. Twist the cap off the juice bottle.
+close_juice_bottle. twist cap tightly onto the juice bottle.
+pour_juice_bottle. Tilt the juice bottle and pour the juice into the cup, then set the juice bottle upright.
+open_peanut_butter. Twist open the peanut butter jar.
+close_peanut_butter. Close the lid and twist it tightly onto the peanut butter jar.
+prick. Poke the banana slices with a fork.
+sprinkle. Sprinkle a spoonful of white granules.
+scoop_spoon. Scoop a spoonful of white granules from the jar.
+put_sugar. Add a spoonful of sugar to the cup.
+stir. Stir in the cup.
+open_milk. Twist open the lid of the milk jug.
+close_milk. Close the lid and twist it tightly onto the milk jug.
+pour_milk. Hold the milk jug and pour into the cup.
+drink_mug. Pick up the mug and drink.
+put_tea_bag. Place a tea bag into the cup.
+put_salt. Shake the salt shaker to add salt.
+open_liquid_soap. Open the flip-top cap of the liquid soap bottle.
+close_liquid_soap. Close the flip-top cap of the liquid soap bottle.
+pour_liquid_soap. Dispense the liquid from the liquid soap bottle.
+wash_sponge. Scrub the dishes with the sponge.
+flip_sponge. Flip the sponge block.
+scratch_sponge. Wipe with the sponge.
+squeeze_sponge. Squeeze the sponge.
+open_soda_can. Open the soda can.
+use_flash. Use the sprayer.
+write. Write with a pen.
+tear_paper. tear paper.
+squeeze_paper. squeeze paper.
+open_letter. Open the envelope.
+take_letter_from_enveloppe. Take the letter out of the envelope.
+read_letter. Unfold the letter and read it.
+flip_pages. Turn multiple pages of the book consecutively.
+use_calculator. Use the calculator and press the buttons.
+light_candle. Light the candle with a match.
+charge_cell_phone. Plug the charging cable into the cell phone's port.
+unfold_glasses. Unfold the glasses.
+clean_glasses. Wipe the glasses with a cloth.
+open_wallet. Open the wallet in front of someone.
+give_coin. Take a coin out of the wallet.
+receive_coin. Accept the coin given by someone.
+give_card. Take a card out of the wallet.
+pour_wine. Pour wine from the bottle into the glass.
+toast_wine. Clink glasses and toast.
+handshake. Shake hands.
+high_five. high_five.

@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "toast_wine", which is annotated as "Clink glasses and toast.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+1232. cork. The definition is: close a bottle with a cork. The lexname is: contact. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+671. content. The definition is: make content. The lexname is: emotion. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+654. amuse. The definition is: make (somebody) laugh. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+
+Output Format Example:
+2619. toast.
+921. clink.
+Strictly follow the output format above. Do not output analysis. 

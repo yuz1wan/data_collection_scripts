@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspWine_glass".
+There are 50 candidate verbs: 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+521. reappraise. The definition is: appraise anew. The lexname is: cognition. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+706. gladden. The definition is: become glad or happy. The lexname is: emotion. 
+625. gladden. The definition is: become glad or happy. The lexname is: emotion. 
+238. gladden. The definition is: become glad or happy. The lexname is: emotion. 
+1630. gaze. The definition is: look at with fixed eyes. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+1623. savor. The definition is: taste appreciatively. The lexname is: perception. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+398. separate. The definition is: divide into components or constituents. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1082. classify. The definition is: arrange or order by classes or categories. The lexname is: cognition. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+
+Output Format Example:
+1248. glass.
+320. vitrify.
+Strictly follow the output format above. Do not output analysis. 

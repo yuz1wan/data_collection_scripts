@@ -1,0 +1,58 @@
+Select 10 verbs most related to the activity class "light_candle", which is annotated as "Light the candle with a match.".
+Here we emphasize the relevance and similarity of actions and verbs.
+There are 50 candidate verbs: 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+1974. match. The definition is: bring two objects, ideas, or people together. The lexname is: contact. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+247. ignite. The definition is: cause to start burning; subject to fire or great heat. The lexname is: weather. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+985. incandesce. The definition is: become incandescent or glow with heat. The lexname is: change. 
+979. flash. The definition is: emit a brief burst of light. The lexname is: change. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1994. add. The definition is: make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+977. flame. The definition is: be in flames or aflame. The lexname is: weather. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+987. shine. The definition is: emit light; be bright, as of the sun or a light. The lexname is: weather. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+617. delight. The definition is: take delight in. The lexname is: consumption. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+
+Output Format Example:
+350. light.
+2096. lighten.
+Strictly follow the output format above. Do not output analysis. 

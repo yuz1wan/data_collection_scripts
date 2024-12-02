@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspMaster_chef_can".
+There are 50 candidate verbs: 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+
+Output Format Example:
+2326. craft.
+707. gratify.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "clean_glasses".
+There are 50 candidate verbs: 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1632. goggle. The definition is: look with amazement; look stupidly. The lexname is: perception. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1630. gaze. The definition is: look at with fixed eyes. The lexname is: perception. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2300. clear. The definition is: make a way or path by removing objects. The lexname is: change. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+1631. glance. The definition is: throw a glance at; take a brief look at. The lexname is: perception. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+
+Output Format Example:
+452. clean.
+1632. goggle.
+Strictly follow the output format above. Do not output analysis. 

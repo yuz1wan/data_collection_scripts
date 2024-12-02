@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "push Starbucks to red".
+There are 50 candidate verbs: 
+275. redden. The definition is: turn red or redder. The lexname is: change. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+1460. rush. The definition is: urge to an unnatural speed. The lexname is: change. 
+1279. rouge. The definition is: redden by applying rouge to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2203. rush. The definition is: move fast. The lexname is: motion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2527. push. The definition is: press, drive, or impel (someone) to action or completion of an action. The lexname is: communication. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+1149. pull. The definition is: take away. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1568. blush. The definition is: turn red, as if in embarrassment or shame. The lexname is: body. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+
+Output Format Example:
+275. redden.
+2699. push.
+Strictly follow the output format above. Do not output analysis. 

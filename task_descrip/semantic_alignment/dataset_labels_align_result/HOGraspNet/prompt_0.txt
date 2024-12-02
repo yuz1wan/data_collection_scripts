@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspCracker_box".
+There are 50 candidate verbs: 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2656. crack. The definition is: hit forcefully; deal a hard blow, making a cracking noise. The lexname is: contact. 
+922. crack. The definition is: make a very sharp explosive sound. The lexname is: perception. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+330. crack. The definition is: cause to become cracked. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+521. reappraise. The definition is: appraise anew. The lexname is: cognition. 
+1827. generate. The definition is: bring into existence. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1050. generate. The definition is: produce (energy). The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+
+Output Format Example:
+707. gratify.
+924. crepitate.
+Strictly follow the output format above. Do not output analysis. 

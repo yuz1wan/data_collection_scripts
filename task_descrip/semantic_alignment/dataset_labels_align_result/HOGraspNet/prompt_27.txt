@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GraspScissors".
+There are 50 candidate verbs: 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+476. dispossess. The definition is: deprive of the possession of real estate. The lexname is: possession. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+396. reap. The definition is: get or derive. The lexname is: possession. 
+1453. goad. The definition is: stab or urge on as if with a pointed stick. The lexname is: contact. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+521. reappraise. The definition is: appraise anew. The lexname is: cognition. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1183. intersperse. The definition is: introduce one's writing or speech with certain expressions. The lexname is: change. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1946. glom. The definition is: seize upon or latch onto something. The lexname is: possession. 
+509. scrimp. The definition is: subsist on a meager allowance. The lexname is: possession. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+478. deprive. The definition is: take away. The lexname is: change. 
+
+Output Format Example:
+1878. knife.
+1588. knife.
+Strictly follow the output format above. Do not output analysis. 

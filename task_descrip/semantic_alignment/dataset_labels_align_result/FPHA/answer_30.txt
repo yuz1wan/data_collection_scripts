@@ -1,0 +1,10 @@
+2684. read.
+2690. read.
+2041. write.
+2044. quote.
+1067. spell.
+1063. readjust.
+1602. peruse.
+1780. document.
+91. write_in.
+1620. note.

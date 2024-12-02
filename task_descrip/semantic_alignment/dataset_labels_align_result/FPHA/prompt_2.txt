@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pour_juice_bottle".
+There are 50 candidate verbs: 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2259. exude. The definition is: release (a liquid) in drops or small quantities. The lexname is: body. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+
+Output Format Example:
+1332. bottle.
+2316. pour.
+Strictly follow the output format above. Do not output analysis. 

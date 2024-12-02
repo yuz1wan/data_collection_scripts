@@ -1,0 +1,8 @@
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+247. ignite. The definition is: cause to start burning; subject to fire or great heat. The lexname is: weather. 
+985. incandesce. The definition is: become incandescent or glow with heat. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+977. flame. The definition is: be in flames or aflame. The lexname is: weather. 
+987. shine. The definition is: emit light; be bright, as of the sun or a light. The lexname is: weather. 
