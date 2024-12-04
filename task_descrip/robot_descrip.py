@@ -147,28 +147,68 @@ class ARIO:
                 nodes[task_description] = tasks_dict["node"]
         return nodes
     
-if __name__ == "__main__":
-    root = "/DATA/ARIO"
-    ario = ARIO(root)
-    descs = ario.get_description()
-    print(descs)
-    # nodes = ario.get_nodes()
-    # print(nodes)
-    # ario.write_node(nodes)
-    # 写入txt文件
-    with open("ario.txt", "w") as f:
+class rh20t:
+    def __init__(self, root):
+        self.root = root
+
+    def get_description(self):
+        descips = []
+        json_path = os.path.join(self.root, "task_description.json")
+        if not os.path.exists(json_path):
+            print(f"Skipping {task_dir}, no task_description.json")
+            return descips
+
+        tasks_dict = json.load(open(json_path))
+        for key, task in tasks_dict.items():
+            task_description = task["task_description_english"]
+            descips.append(task_description)
+        return descips
+
+    def write_node(self, nodes):
+        json_path = os.path.join(self.root, "task_description.json")
+        if not os.path.exists(json_path):
+            print(f"Skipping {task_dir}, no task_description.json")
+            return
+
+        tasks_dict = json.load(open(json_path))
+        for task in tasks_dict:
+            task_description = task["task_description_english"]
+            task["node"] = nodes[task_description]
+        with open(json_path, 'w') as f:
+            json.dump(tasks_dict, f, indent=4)
+
+    def get_nodes(self):
+        nodes = {}
+        json_path = os.path.join(self.root, "task_description.json")
+        if not os.path.exists(json_path):
+            print(f"Skipping {task_dir}, no task_description.json")
+            return nodes
+
+        tasks_dict = json.load(open(json_path))
+        for task in tasks_dict:
+            task_description = task["task_description_english"]
+            nodes[task_description] = task["node"]
+        return nodes
+
+def create_dataloader(dataset):
+    if dataset == "ARIO":
+        return ARIO
+    elif dataset == "aloha_lerobot":
+        return aloha
+    elif dataset == "rh20t":
+        return rh20t
+    else:
+        raise ValueError("dataset not supported")
+
+def save_description(dataset):
+    dataloader = create_dataloader(dataset)
+    root = f"/DATA/{dataset}"
+    data = dataloader(root)
+    descs = data.get_description()
+    with open(f"./semantic_alignment/dataset_labels/{dataset}.txt", "w") as f:
         for desc in descs:
             f.write(desc + "\n")
 
-    print("=====================================")
-    root = "/DATA/aloha_lerobot"
-    aloha = aloha(root)
-    descs = aloha.get_description()
-    print(descs)
-    # nodes = aloha.get_nodes()
-    # print(nodes)
-    # aloha.write_node(nodes)
-    # 写入txt文件
-    with open("aloha.txt", "w") as f:
-        for desc in descs:
-            f.write(desc + "\n")
+
+if __name__ == "__main__":
+    save_description("rh20t")
