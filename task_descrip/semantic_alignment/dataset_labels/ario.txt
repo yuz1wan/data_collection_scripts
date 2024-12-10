@@ -45,3 +45,38 @@ pick ADMilk
 pick CocaCola
 Grab the cup and fetch water from the dispenser
 Remove the USB flash drive from the right device and insert it into the USB hole on the left device
+Put the apple/banana into the basket
+Put the banana into the basket
+Turn on the desk lamp by pressing the button
+Cleaning the table by wiping it with a cloth and removing any debris (with one hands)
+Stack the cups
+Twist open the cap of the vitamin bottle
+Type the word 'hello' on a keyboard (with one hand)
+Folding towels neatly and placing them on the center of the table (with two hands)
+Installing batteries into a device, ensuring they are correctly oriented (with two hands)
+Plug the triangular plug into the socket
+Applying ointment to a person's skin by gently spreading it with a finger (with two hands)
+Tear open an envelope (with two hands)
+Pick up the pencil on the table and write down the number '1' on the paper
+Pick up the pencil on the table and write down the letters 'P C L' on the paper
+Pick up the pencil on the table and write down the letters 'P C L' on the paper
+Grab the book, pencil, and eraser from the upper right corner of the table and arrange them as follows: place the book in the center of the surface, the pencil to the right of the book, and the eraser to the left of the book
+Pick up the red block on the table with the left hand and pass it to the right hand
+Please cut the playdough on the table in half
+Pick up the red building block with your left hand and the green building block with your right hand, then knock the two blocks against each other
+Scoop a spoonful of rice from the container
+Please unzip the purse
+Grab a grape from the table and put it into the basket
+Turn a page of a book (with one hand)
+Pick up the little ball in the container and put it into the mineral water bottle
+Place the red block on top of the white block
+Turn off the desk lamp by pressing the button
+The right robotic arm first picks up the rice paper and places it on the upper right side of the desk, then picks up the water dish and places it on the lower right side of the desk, and then picks up the brush and places it in the lower left corner, finally picks up the calligraphy copybook and places it above the brush
+Pick up the pencil on the table with the left hand and pass it to the right hand
+Laying out a tablecloth on a table, ensuring it is centered and smooth (with two hands)
+Tighten the cap of the vitamin bottle
+Open the vitamin bottle and pour the pills into the plastic bowl
+Grasp the vitamin bottle handed over by someone with the right hand
+Hand over the vitamin bottle in the right hand to the person standing next to the robot
+Place the plastic spoon on the bowl
+Pick up the open book on the table with both hands

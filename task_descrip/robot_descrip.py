@@ -190,6 +190,11 @@ class rh20t:
             nodes[task_description] = task["node"]
         return nodes
 
+class openx:
+    pass
+
+
+
 def create_dataloader(dataset):
     if dataset == "ARIO":
         return ARIO
@@ -197,6 +202,8 @@ def create_dataloader(dataset):
         return aloha
     elif dataset == "rh20t":
         return rh20t
+    elif dataset == "openx_embod":
+        return openx
     else:
         raise ValueError("dataset not supported")
 
