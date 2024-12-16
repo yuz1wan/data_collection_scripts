@@ -1,0 +1,10 @@
+780. rotate.  
+1536. close.  
+1540. cross.  
+1772. turn.  
+1322. lower.  
+1976. crisscross.  
+1020. rearrange.  
+596. rotate.  
+2421. spread.  
+1214. superimpose.  

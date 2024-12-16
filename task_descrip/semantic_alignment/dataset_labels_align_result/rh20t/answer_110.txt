@@ -1,0 +1,10 @@
+1430. cut.  
+475. drain.  
+215. drain.  
+414. flush.  
+2476. halt.  
+1162. close.  
+2093. dry.  
+2260. leak.  
+1772. turn.  
+1610. survey.  

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "in the slider grasp the blue block".
+There are 50 candidate verbs: 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+298. steady. The definition is: make steady. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+2377. submit. The definition is: yield to the control of another. The lexname is: competition. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+
+Output Format Example:
+1162. close.
+1772. turn.
+Strictly follow the output format above. Do not output analysis. 

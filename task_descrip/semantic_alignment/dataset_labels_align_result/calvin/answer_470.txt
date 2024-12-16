@@ -1,0 +1,10 @@
+2638. grasp.  
+2627. hold.  
+1321. lift.  
+1139. catch.  
+1844. wield.  
+2151. stand.  
+350. move.  
+1497. break.  
+1057. transform.  
+2017. pass.

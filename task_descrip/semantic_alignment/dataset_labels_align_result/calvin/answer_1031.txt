@@ -1,0 +1,10 @@
+1966. toggle.  
+1772. turn.  
+25. lock.  
+984. glow.  
+176. brighten.  
+979. flash.  
+382. delete.  
+311. tighten.  
+2452. install.  
+2635. touch.  

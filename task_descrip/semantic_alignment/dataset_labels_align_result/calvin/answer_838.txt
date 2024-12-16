@@ -1,0 +1,10 @@
+2638. grasp.  
+1845. handle.  
+2144. open.  
+1499. draw.  
+278. reopen.  
+1488. unlock.  
+2624. grab.  
+2647. pinch.  
+1500. hack.  
+1333. box.  

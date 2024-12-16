@@ -1,0 +1,10 @@
+1772. turn.  
+2456. put.  
+2475. cut_out.  
+2476. halt.  
+2482. stop.  
+1504. pry.  
+1062. fit.  
+1610. survey.  
+1784. move.  
+2615. satirize.  

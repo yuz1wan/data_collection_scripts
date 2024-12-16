@@ -1,0 +1,10 @@
+1487. unhook. The definition is: take off a hook. The lexname is: contact.  
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion.  
+328. break. The definition is: break a piece from a whole. The lexname is: contact.  
+1500. hack. The definition is: cut away. The lexname is: contact.  
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact.  
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact.  
+1772. turn. The definition is: pass to the other side of. The lexname is: motion.  
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change.  
+1430. cut. The definition is: cease, stop. The lexname is: change.  
+209. destabilize. The definition is: make unstable. The lexname is: change.  

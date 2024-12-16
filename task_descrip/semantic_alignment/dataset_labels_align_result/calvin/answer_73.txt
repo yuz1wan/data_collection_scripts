@@ -1,0 +1,10 @@
+1321. lift.  
+1333. box.  
+2456. put.  
+421. unload.  
+1351. shelve.  
+1369. open.  
+2443. stuff.  
+1943. collate.  
+1943. crate.  
+1020. rearrange.  

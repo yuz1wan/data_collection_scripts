@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Play the first move as black on the 3-4 point in the upper right corner of the Go board".
+There are 50 candidate verbs: 
+2075. dip. The definition is: appear to move downward. The lexname is: motion. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+1302. tile. The definition is: cover with tiles. The lexname is: contact. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+635. puzzle. The definition is: be uncertain about; think about without fully understanding or being able to decide. The lexname is: emotion. 
+1581. identify. The definition is: consider (oneself) as similar to somebody else. The lexname is: cognition. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1079. rank. The definition is: take or have a position relative to others. The lexname is: cognition. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1101. rank. The definition is: take or have a position relative to others. The lexname is: cognition. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+963. tick. The definition is: make a sound like a clock or a timer. The lexname is: perception. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1088. rule. The definition is: decide with authority. The lexname is: cognition. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2296. recognize. The definition is: be fully aware or cognizant of. The lexname is: cognition. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1074. diagnose. The definition is: subject to a medical analysis. The lexname is: cognition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+1625. spot. The definition is: mark with a spot or spots so as to allow easy recognition. The lexname is: change. 
+844. take. The definition is: travel or go by means of a certain kind of transportation, or a certain route. The lexname is: motion. 
+1777. chart. The definition is: make a chart of. The lexname is: cognition. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+
+Output Format Example:
+2075. dip.
+2687. learn.
+Strictly follow the output format above. Do not output analysis. 

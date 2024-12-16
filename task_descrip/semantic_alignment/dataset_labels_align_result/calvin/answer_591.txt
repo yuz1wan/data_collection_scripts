@@ -1,0 +1,10 @@
+2638. grasp.  
+2625. grasp.  
+2624. grab.  
+727. move.  
+1497. break.  
+1492. unseal.  
+2017. pass.  
+1333. box.  
+1338. crate.  
+454. clean.  

@@ -1,0 +1,10 @@
+350. light.  
+979. flash.  
+984. glow.  
+987. shine.  
+176. brighten.  
+178. burn.  
+1558. turn.  
+2452. install.  
+1369. open.  
+278. reopen.  

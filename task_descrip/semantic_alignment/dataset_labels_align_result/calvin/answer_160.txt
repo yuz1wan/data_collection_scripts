@@ -1,0 +1,10 @@
+1966. toggle.  
+1772. turn.  
+1192. plug.  
+350. light.  
+176. brighten.  
+1488. unlock.  
+984. glow.  
+1432. switch.  
+382. delete.  
+2651. touch.  

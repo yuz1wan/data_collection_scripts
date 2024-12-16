@@ -1,0 +1,10 @@
+1321. lift.  
+2456. put.  
+2058. knock.  
+395. pry.  
+2501. raise.  
+1333. box.  
+2510. crop.  
+1162. close.  
+517. hoist.  
+1057. transform.  

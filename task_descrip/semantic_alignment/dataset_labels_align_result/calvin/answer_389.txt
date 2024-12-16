@@ -1,0 +1,10 @@
+1772. turn.  
+2476. halt.  
+851. guide.  
+2456. put.  
+782. turn.  
+1536. close.  
+2128. empty.  
+2556. notice.  
+727. move.  
+2482. stop.  

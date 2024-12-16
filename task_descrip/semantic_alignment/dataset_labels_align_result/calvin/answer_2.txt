@@ -1,0 +1,10 @@
+1966. toggle.  
+350. light.  
+782. turn.  
+1192. plug.  
+176. brighten.  
+984. glow.  
+2452. install.  
+2455. reinstall.  
+2335. make.  
+1830. reduce.  

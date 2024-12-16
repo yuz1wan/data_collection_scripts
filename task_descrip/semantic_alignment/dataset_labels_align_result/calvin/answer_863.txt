@@ -1,0 +1,10 @@
+2624. grab.  
+2638. grasp.  
+267. hold.  
+1878. knife.  
+2017. pass.  
+124. get_hold_of.  
+2128. empty.  
+1537. take.  
+1497. break.  
+1356. trap.  

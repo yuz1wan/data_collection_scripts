@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "push the switch downwards".
+There are 50 candidate verbs: 
+1149. pull. The definition is: take away. The lexname is: change. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2527. push. The definition is: press, drive, or impel (someone) to action or completion of an action. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2482. stop. The definition is: come to a halt, stop moving. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+407. withdraw. The definition is: remove (a commodity) from (a supply source). The lexname is: possession. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+263. open. The definition is: become open. The lexname is: contact. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+
+Output Format Example:
+1149. pull.
+2032. push.
+Strictly follow the output format above. Do not output analysis. 

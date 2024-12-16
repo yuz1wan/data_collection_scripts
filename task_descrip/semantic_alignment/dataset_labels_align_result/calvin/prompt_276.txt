@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "go towards the drawer and store the object".
+There are 50 candidate verbs: 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+527. collect. The definition is: get or bring together. The lexname is: contact. 
+194. collect. The definition is: get or bring together. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1944. collect. The definition is: gather or collect. The lexname is: possession. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1140. choose. The definition is: select as an alternative over another. The lexname is: cognition. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+2471. meet. The definition is: collect in one place. The lexname is: social. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+
+Output Format Example:
+1325. archive.
+2554. detect.
+Strictly follow the output format above. Do not output analysis. 

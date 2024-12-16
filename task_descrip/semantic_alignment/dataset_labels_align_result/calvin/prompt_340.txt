@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "in the slider pick up the pink block".
+There are 50 candidate verbs: 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+71. tool. The definition is: drive. The lexname is: motion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+
+Output Format Example:
+1615. behold.
+841. yaw.
+Strictly follow the output format above. Do not output analysis. 

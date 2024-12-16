@@ -1,0 +1,10 @@
+2476. halt.  
+1772. turn.  
+2456. put.  
+2482. stop.  
+782. turn.  
+727. move.  
+2058. knock.  
+1333. box.  
+851. guide.  
+1062. fit.  

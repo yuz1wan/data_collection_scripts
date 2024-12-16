@@ -1,0 +1,10 @@
+2638. grasp.  
+2625. grasp.  
+780. rotate.  
+596. rotate.  
+1772. turn.  
+1976. crisscross.  
+1540. cross.  
+2491. cube.  
+1404. square.  
+515. fix.  

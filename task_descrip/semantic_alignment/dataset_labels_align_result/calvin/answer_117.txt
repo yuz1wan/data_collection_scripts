@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+1975. alternate.  
+1057. transform.  
+1020. rearrange.  
+1214. superimpose.  
+1430. cut.  
+2554. detect.  
+2633. constitute.  
+2565. become.  

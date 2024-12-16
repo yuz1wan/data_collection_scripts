@@ -1,0 +1,10 @@
+1321. lift.  
+1351. shelve.  
+2456. put.  
+1338. crate.  
+452. clean.  
+1878. knife.  
+1682. rock.  
+1062. fit.  
+2449. build-in.  
+2365. do.

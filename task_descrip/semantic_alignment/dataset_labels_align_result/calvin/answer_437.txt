@@ -1,0 +1,10 @@
+350. light.  
+979. flash.  
+984. glow.  
+176. brighten.  
+1430. cut.  
+2565. become.  
+2452. install.  
+263. open.  
+278. reopen.  
+1821. tool.  

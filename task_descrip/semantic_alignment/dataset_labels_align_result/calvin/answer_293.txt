@@ -1,0 +1,10 @@
+2442. stock.  
+2456. put.  
+1504. pry.  
+1139. catch.  
+2515. chop.  
+1333. box.  
+1497. break.  
+1162. close.  
+209. destabilize.  
+1943. collate.  

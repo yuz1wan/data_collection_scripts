@@ -1,0 +1,10 @@
+2441. stack.  
+2001. connect.  
+13. connect.  
+563. cover.  
+515. fix.  
+1162. close.  
+2128. empty.  
+1304. top.  
+1302. tile.  
+2517. hack.  

@@ -1,0 +1,10 @@
+1321. lift.  
+2456. put.  
+1351. shelve.  
+421. unload.  
+1338. crate.  
+1369. open.  
+1498. cut.  
+1842. contain.  
+1497. break.  
+1615. behold.  

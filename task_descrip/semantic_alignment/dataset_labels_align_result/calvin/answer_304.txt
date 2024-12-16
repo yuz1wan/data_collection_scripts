@@ -1,0 +1,10 @@
+1772. turn.  
+2144. open.  
+1321. lift.  
+1321. lower.  
+2482. stop.  
+2212. leave.  
+596. rotate.  
+1558. turn.  
+1536. close.  
+2480. end.  

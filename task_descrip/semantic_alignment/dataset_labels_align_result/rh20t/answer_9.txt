@@ -1,0 +1,10 @@
+1845. handle.  
+2151. stand.  
+1376. stand.  
+2452. install.  
+2444. cram.  
+1280. saddle.  
+1788. transcribe.  
+1789. type.  
+122. get.  
+141. place.  

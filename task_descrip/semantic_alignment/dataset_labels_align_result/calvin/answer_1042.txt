@@ -1,0 +1,10 @@
+2625. grasp.  
+1772. turn.  
+1536. close.  
+1558. turn.  
+1558. turn.  
+1558. turn.  
+1635. look.  
+990. accept.  
+851. guide.  
+240. move.  

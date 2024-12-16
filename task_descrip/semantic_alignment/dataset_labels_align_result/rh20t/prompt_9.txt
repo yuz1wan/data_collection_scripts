@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Place the handset of the telephone on the corresponding phone cradle".
+There are 50 candidate verbs: 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1391. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1398. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2526. call_on. The definition is: order or request or give a command for. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+122. get. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2136. read. The definition is: indicate a certain reading; of gauges and instruments. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+1788. transcribe. The definition is: make a phonetic transcription of. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+2047. tell. The definition is: narrate or give a detailed account of. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+116. satellite. The definition is: broadcast or disseminate via satellite. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+
+Output Format Example:
+114. radio.
+124. get_hold_of.
+Strictly follow the output format above. Do not output analysis. 

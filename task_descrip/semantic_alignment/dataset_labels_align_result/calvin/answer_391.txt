@@ -1,0 +1,10 @@
+2638. grasp.  
+1772. turn.  
+782. turn.  
+1558. turn.  
+2421. spread.  
+2128. empty.  
+990. accept.  
+515. fix.  
+1536. close.  
+1302. tile.  

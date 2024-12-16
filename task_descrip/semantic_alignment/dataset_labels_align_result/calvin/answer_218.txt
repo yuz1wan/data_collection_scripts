@@ -1,0 +1,10 @@
+1772. turn.  
+1558. turn.  
+782. turn.  
+1975. alternate.  
+2476. halt.  
+2482. stop.  
+209. destabilize.  
+221. even.  
+515. fix.  
+326. worsen.  

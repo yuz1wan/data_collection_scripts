@@ -1,0 +1,10 @@
+2482. stop.  
+1413. cut.  
+1413. cut_out.  
+1776. keep.  
+350. light.  
+980. flash.  
+1162. close.  
+1558. turn.  
+2475. cut_out.  
+1413. halt.  

@@ -1,0 +1,10 @@
+176. brighten.  
+350. light.  
+979. flash.  
+327. yellow.  
+987. shine.  
+1488. unlock.  
+2144. open.  
+780. rotate.  
+188. clear.  
+1192. plug.  

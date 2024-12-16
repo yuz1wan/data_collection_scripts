@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "collapse the stacked blocks".
+There are 50 candidate verbs: 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+2441. stack. The definition is: arrange in stacks. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2655. collide. The definition is: crash together with violent impact. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2491. cube. The definition is: cut into cubes. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1982. consolidate. The definition is: bring together into a single whole or system. The lexname is: change. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+276. redouble. The definition is: double again. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+496. seize. The definition is: take or capture by force. The lexname is: contact. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+1445. shock. The definition is: surprise greatly; knock someone's socks off. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1540. cross. The definition is: fold so as to resemble a cross. The lexname is: motion. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+
+Output Format Example:
+193. collapse.
+2441. stack.
+Strictly follow the output format above. Do not output analysis. 

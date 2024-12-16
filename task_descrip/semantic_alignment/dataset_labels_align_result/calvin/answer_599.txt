@@ -1,0 +1,10 @@
+2625. grasp.  
+1321. lift.  
+2627. hold.  
+1376. stand.  
+2495. take.  
+1892. whack.  
+338. smash.  
+1057. transform.  
+2151. stand.  
+2638. grasp.  

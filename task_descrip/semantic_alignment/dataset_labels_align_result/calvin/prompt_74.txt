@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "lift the blue block in the drawer".
+There are 50 candidate verbs: 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2365. do. The definition is: get (something) done. The lexname is: social. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+
+Output Format Example:
+1333. box.
+1321. lift.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,10 @@
+1351. shelve.  
+2456. put.  
+1497. break.  
+395. pry.  
+514. fix.  
+2510. crop.  
+2388. get.  
+1376. stand.  
+1333. box.  
+1610. survey.  

@@ -1,0 +1,10 @@
+1321. lift.  
+2456. put.  
+1516. guide.  
+1322. lower.  
+1497. break.  
+1500. hack.  
+1333. box.  
+1404. square.  
+2494. flatten.  
+373. file.  

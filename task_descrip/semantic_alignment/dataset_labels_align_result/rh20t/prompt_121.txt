@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Plug in the bulb holder with a bulb to the socket and turn on the switch of the bulb".
+There are 50 candidate verbs: 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+4. bolt. The definition is: secure or lock with a bolt. The lexname is: contact. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1479. unbolt. The definition is: undo the bolt of. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+79. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+1505. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+2693. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1208. implant. The definition is: become attached to and embedded in the uterus. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+979. flash. The definition is: emit a brief burst of light. The lexname is: change. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1706. plumb. The definition is: examine thoroughly and in great depth. The lexname is: cognition. 
+1585. electrocute. The definition is: kill by electrocution, as in the electric chair. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+
+Output Format Example:
+1192. plug.
+235. fuse.
+Strictly follow the output format above. Do not output analysis. 

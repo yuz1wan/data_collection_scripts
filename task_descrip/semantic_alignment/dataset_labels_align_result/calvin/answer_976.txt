@@ -1,0 +1,10 @@
+1506. push.  
+2482. stop.  
+1431. kill.  
+2480. end.  
+2476. halt.  
+1149. pull.  
+6. button.  
+1162. close.  
+350. light.  
+979. flash.  

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pick up the pink block from the shelf".
+There are 50 candidate verbs: 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2491. cube. The definition is: cut into cubes. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+353. pink. The definition is: cut in a zigzag pattern with pinking shears, in sewing. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+2388. get. The definition is: purchase. The lexname is: possession. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+
+Output Format Example:
+1615. behold.
+1602. peruse.
+Strictly follow the output format above. Do not output analysis. 

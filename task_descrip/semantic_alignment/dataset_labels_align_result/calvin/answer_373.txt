@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+1322. lower.  
+1540. cross.  
+1020. rearrange.  
+2491. cube.  
+1830. reduce.  
+2075. dip.  
+1473. pare.  
+2421. spread.  

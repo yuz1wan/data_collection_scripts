@@ -1,0 +1,10 @@
+2625. grasp.  
+2638. grasp.  
+2624. grab.  
+2640. grip.  
+2626. grip.  
+2128. empty.  
+1338. crate.  
+1333. box.  
+2491. cube.  
+1852. chop.  

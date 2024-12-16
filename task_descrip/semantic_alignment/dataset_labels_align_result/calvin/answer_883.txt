@@ -1,0 +1,10 @@
+263. open.  
+1548. open.  
+1162. close.  
+1536. close.  
+278. reopen.  
+1321. lift.  
+2456. put.  
+1772. turn.  
+384. dislodge.  
+2482. stop.  

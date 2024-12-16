@@ -1,0 +1,10 @@
+263. open.  
+2144. open.  
+1369. open.  
+1548. open.  
+278. reopen.  
+1772. turn.  
+2210. exit.  
+2476. halt.  
+851. guide.  
+1923. screen.  

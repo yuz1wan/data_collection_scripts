@@ -1,0 +1,10 @@
+350. light.  
+940. patter.  
+984. glow.  
+979. flash.  
+987. shine.  
+176. brighten.  
+782. turn.  
+2151. stand.  
+2682. tap.  
+920. click.  

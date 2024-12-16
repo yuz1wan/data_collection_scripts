@@ -1,0 +1,10 @@
+1772. turn.  
+1558. turn.  
+782. turn.  
+2475. cut_out.  
+2476. halt.  
+2482. stop.  
+1996. blend.  
+221. even.  
+209. destabilize.  
+328. break.  

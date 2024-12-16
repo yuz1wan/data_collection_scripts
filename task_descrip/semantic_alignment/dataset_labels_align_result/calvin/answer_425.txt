@@ -1,0 +1,10 @@
+2625. grasp.  
+2627. hold.  
+1551. raise.  
+2002. join.  
+1162. close.  
+328. break.  
+1356. trap.  
+213. divide.  
+354. raise.  
+2510. crop.  

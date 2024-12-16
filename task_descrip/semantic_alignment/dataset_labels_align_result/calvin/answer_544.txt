@@ -1,0 +1,10 @@
+2699. push.  
+2527. push.  
+2482. stop.  
+1149. pull.  
+2456. put.  
+2700. shove.  
+1772. turn.  
+1558. turn.  
+350. light.  
+979. flash.  

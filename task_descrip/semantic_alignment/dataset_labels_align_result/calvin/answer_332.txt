@@ -1,0 +1,10 @@
+2638. grasp.  
+2627. hold.  
+2151. stand.  
+1162. close.  
+1304. top.  
+328. break.  
+338. smash.  
+2515. chop.  
+2475. cut_out.  
+1517. hack.  

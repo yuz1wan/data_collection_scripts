@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+1322. lower.  
+1975. alternate.  
+1540. cross.  
+2075. dip.  
+2491. cube.  
+2517. hack.  
+1020. rearrange.  
+1615. behold.  

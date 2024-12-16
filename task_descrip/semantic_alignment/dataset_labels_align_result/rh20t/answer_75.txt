@@ -1,0 +1,10 @@
+2441. stack.  
+1026. assemble.  
+2491. cube.  
+1023. style.  
+221. even.  
+1472. disassemble.  
+2437. heap.  
+2325. write.  
+1332. bottle.  
+1682. rock.  

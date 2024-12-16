@@ -1,0 +1,10 @@
+2210. exit.  
+1772. turn.  
+1536. close.  
+1369. open.  
+278. reopen.  
+782. turn.  
+1558. turn.  
+2476. halt.  
+128. drive.  
+128. move.  

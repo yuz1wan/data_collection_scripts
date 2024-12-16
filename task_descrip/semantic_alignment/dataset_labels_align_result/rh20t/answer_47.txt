@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+782. turn.  
+1558. turn.  
+2232. navigate.  
+128. drive.  
+71. tool.  
+841. yaw.  
+2476. halt.  
+1294. stress.  

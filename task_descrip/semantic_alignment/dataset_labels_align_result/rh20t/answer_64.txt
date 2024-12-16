@@ -1,0 +1,10 @@
+1021. rebuild.  
+1012. construct.  
+2326. craft.  
+2327. design.  
+1026. assemble.  
+2441. stack.  
+392. extrude.  
+1472. disassemble.  
+1037. fashion.  
+1659. color.  

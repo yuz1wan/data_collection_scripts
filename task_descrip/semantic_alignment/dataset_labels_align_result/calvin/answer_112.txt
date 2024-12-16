@@ -1,0 +1,10 @@
+780. rotate.  
+596. rotate.  
+1772. turn.  
+1214. superimpose.  
+1020. rearrange.  
+1430. cut.  
+1975. alternate.  
+346. grade.  
+1943. collate.  
+395. pry.  

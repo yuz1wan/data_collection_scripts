@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Clean the table with a cloth".
+There are 50 candidate verbs: 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1384. slosh. The definition is: spill or splash copiously or clumsily. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2300. clear. The definition is: make a way or path by removing objects. The lexname is: change. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2691. attend. The definition is: take charge of or deal with. The lexname is: social. 
+
+Output Format Example:
+452. clean.
+2122. sweep.
+Strictly follow the output format above. Do not output analysis. 

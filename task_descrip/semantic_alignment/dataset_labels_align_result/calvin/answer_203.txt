@@ -1,0 +1,10 @@
+2476. halt.  
+2480. end.  
+1431. kill.  
+2482. stop.  
+221. even.  
+1434. continue.  
+328. yellow.  
+984. glow.  
+1772. turn.  
+990. accept.  

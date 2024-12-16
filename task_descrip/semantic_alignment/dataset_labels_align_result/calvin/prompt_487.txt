@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "lift the pink block lying in the drawer".
+There are 50 candidate verbs: 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+2491. cube. The definition is: cut into cubes. The lexname is: contact. 
+353. pink. The definition is: cut in a zigzag pattern with pinking shears, in sewing. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1338. crate. The definition is: put into a crate; as for protection. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1302. tile. The definition is: cover with tiles. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1304. top. The definition is: cut the top off. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1812. engrave. The definition is: carve or cut into a block used for printing or print from such a block. The lexname is: creation. 
+2365. do. The definition is: get (something) done. The lexname is: social. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+1568. blush. The definition is: turn red, as if in embarrassment or shame. The lexname is: body. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+
+Output Format Example:
+1333. box.
+1321. lift.
+Strictly follow the output format above. Do not output analysis. 

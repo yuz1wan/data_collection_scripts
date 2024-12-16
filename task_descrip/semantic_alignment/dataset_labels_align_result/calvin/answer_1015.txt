@@ -1,0 +1,10 @@
+2625. grasp.  
+1321. lift.  
+2627. hold.  
+1139. catch.  
+2640. grip.  
+1844. wield.  
+1057. transform.  
+1333. box.  
+851. guide.  
+1356. trap.  

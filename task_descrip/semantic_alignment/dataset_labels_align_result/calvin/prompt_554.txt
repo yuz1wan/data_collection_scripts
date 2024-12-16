@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "grasp the handle of the drawer and close it".
+There are 50 candidate verbs: 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+263. open. The definition is: become open. The lexname is: contact. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+478. deprive. The definition is: take away. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+
+Output Format Example:
+2638. grasp.
+2625. grasp.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "lift the red block from the table".
+There are 50 candidate verbs: 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2491. cube. The definition is: cut into cubes. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1279. rouge. The definition is: redden by applying rouge to. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+504. bet. The definition is: stake on the outcome of an issue. The lexname is: competition. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+61. return. The definition is: make a return. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+276. redouble. The definition is: double again. The lexname is: change. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+275. redden. The definition is: turn red or redder. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+
+Output Format Example:
+1430. cut.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

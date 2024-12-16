@@ -1,0 +1,10 @@
+2638. grasp.  
+2624. grab.  
+2627. hold.  
+2626. grip.  
+1162. close.  
+2128. empty.  
+851. guide.  
+1863. swipe.  
+1333. box.  
+452. clean.  

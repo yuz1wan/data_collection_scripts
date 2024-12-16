@@ -1,0 +1,10 @@
+1772. turn.  
+782. turn.  
+2456. put.  
+727. move.  
+1162. close.  
+2482. stop.  
+1430. cut.  
+515. fix.  
+2290. direct.  
+346. grade.  

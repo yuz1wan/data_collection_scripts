@@ -1,0 +1,10 @@
+2625. grasp.  
+2624. grab.  
+1910. hold.  
+727. move.  
+1500. hack.  
+1497. break.  
+382. delete.  
+452. clean.  
+1430. cut.  
+1844. wield.  

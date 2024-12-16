@@ -1,0 +1,10 @@
+1499. draw.  
+774. move.  
+1322. lower.  
+63. transfer.  
+194. collect.  
+1205. arrange.  
+1020. rearrange.  
+1536. close.  
+2452. install.  
+13. connect.  

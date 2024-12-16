@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Swat with a flyswatter".
+There are 50 candidate verbs: 
+1862. swat. The definition is: hit swiftly with a violent blow. The lexname is: contact. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+605. waft. The definition is: blow gently. The lexname is: weather. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+799. flit. The definition is: move along rapidly and lightly; skim or dart. The lexname is: motion. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+1496. blow. The definition is: cause to move by means of an air current. The lexname is: motion. 
+785. whirl. The definition is: fly around. The lexname is: motion. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+772. float. The definition is: move lightly, as if suspended. The lexname is: motion. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2104. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+1863. swipe. The definition is: strike with a swiping motion. The lexname is: contact. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1877. flog. The definition is: beat severely with a whip or rod. The lexname is: contact. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1750. tweet. The definition is: make a weak, chirping sound. The lexname is: perception. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1685. twitch. The definition is: move or pull with a sudden motion. The lexname is: contact. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+
+Output Format Example:
+1862. swat.
+2142. fly.
+Strictly follow the output format above. Do not output analysis. 

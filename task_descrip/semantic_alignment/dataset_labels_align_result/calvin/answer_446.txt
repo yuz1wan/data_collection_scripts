@@ -1,0 +1,10 @@
+2638. grasp.  
+2624. grab.  
+2626. grip.  
+2677. hold.  
+2515. chop.  
+190. close.  
+1338. crate.  
+2160. empty.  
+382. delete.  
+2001. connect.  

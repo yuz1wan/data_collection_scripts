@@ -1,0 +1,10 @@
+502. take.  
+1772. turn.  
+2476. halt.  
+1057. transform.  
+851. guide.  
+1996. blend.  
+2335. make.  
+2565. become.  
+61. return.  
+221. even.  

@@ -1,0 +1,10 @@
+2476. halt.  
+1322. lower.  
+2456. put.  
+395. pry.  
+1430. cut.  
+1772. turn.  
+851. guide.  
+1062. fit.  
+2504. move.  
+980. accept.  

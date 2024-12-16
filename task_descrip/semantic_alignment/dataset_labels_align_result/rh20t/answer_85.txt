@@ -1,0 +1,10 @@
+1146. pick.  
+2456. put.  
+2277. receive.  
+1206. emplace.  
+1504. pry.  
+1139. catch.  
+528. collect.  
+1831. restrict.  
+1211. situate.  
+1062. fit.  

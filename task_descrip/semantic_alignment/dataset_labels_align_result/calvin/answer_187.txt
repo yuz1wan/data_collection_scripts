@@ -1,0 +1,10 @@
+1321. lift.  
+2456. put.  
+1497. break.  
+2042. move.  
+1333. box.  
+1852. chop.  
+1500. hack.  
+2043. carry.  
+328. break.  
+61. return.  

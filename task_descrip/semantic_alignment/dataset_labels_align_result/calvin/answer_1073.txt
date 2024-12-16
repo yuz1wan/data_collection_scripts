@@ -1,0 +1,10 @@
+1772. turn.  
+782. turn.  
+240. move.  
+2456. put.  
+1610. survey.  
+515. fix.  
+1290. direct.  
+2475. cut_out.  
+2482. stop.  
+2290. direct.  

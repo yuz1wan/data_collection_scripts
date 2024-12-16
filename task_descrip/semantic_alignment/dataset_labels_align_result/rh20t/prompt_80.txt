@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Scoop water with a large spoon from one bowl to another".
+There are 50 candidate verbs: 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+884. spoonfeed. The definition is: feed with a spoon. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2265. slop. The definition is: ladle clumsily. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+898. sup. The definition is: take solid or liquid food into the mouth a little at a time either by drinking or by eating with a spoon. The lexname is: consumption. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2399. funnel. The definition is: move or pour through a funnel. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+
+Output Format Example:
+2394. spoon.
+1339. cup.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,10 @@
+1772. turn.  
+2482. stop.  
+1431. kill.  
+2475. cut_out.  
+1651. stop.  
+178. burn.  
+1162. close.  
+1416. halt.  
+941. flash.  
+350. light.  

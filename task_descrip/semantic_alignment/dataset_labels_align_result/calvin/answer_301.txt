@@ -1,0 +1,10 @@
+2638. grasp.  
+1845. handle.  
+2627. hold.  
+1162. close.  
+2144. open.  
+2626. grip.  
+2640. grip.  
+2624. grab.  
+1536. close.  
+1499. draw.  

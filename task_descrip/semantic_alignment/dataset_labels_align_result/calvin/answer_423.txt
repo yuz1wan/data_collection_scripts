@@ -1,0 +1,10 @@
+1430. cut.  
+2475. cut_out.  
+2476. halt.  
+1418. spat.  
+178. burn.  
+1162. close.  
+1830. reduce.  
+1431. kill.  
+978. flash.  
+980. dim.  

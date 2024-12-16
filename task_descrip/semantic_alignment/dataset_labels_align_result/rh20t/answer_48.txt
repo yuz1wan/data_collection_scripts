@@ -1,0 +1,10 @@
+1351. shelve.  
+2456. put.  
+414. flush.  
+384. dislodge.  
+1910. hold.  
+142. cook.  
+133. bake.  
+2317. roast.  
+1062. fit.  
+1953. beat.  

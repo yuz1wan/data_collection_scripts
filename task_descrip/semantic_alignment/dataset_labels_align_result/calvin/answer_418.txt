@@ -1,0 +1,10 @@
+2456. put.  
+1351. shelve.  
+1325. archive.  
+2451. insert.  
+1162. close.  
+402. take_out.  
+387. eject.  
+263. open.  
+1599. inspect.  
+1333. box.  

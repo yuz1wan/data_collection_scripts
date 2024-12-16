@@ -1,0 +1,10 @@
+1852. chop.  
+1859. slice.  
+2502. slice.  
+2509. chop.  
+1500. hack.  
+2517. hack.  
+2508. carve.  
+2242. shave.  
+1501. hew.  
+443. seed.  

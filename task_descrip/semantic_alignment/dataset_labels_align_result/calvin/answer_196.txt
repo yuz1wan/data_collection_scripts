@@ -1,0 +1,10 @@
+2638. grasp.  
+2625. grasp.  
+1376. stand.  
+2151. stand.  
+1772. turn.  
+890. lift.  
+990. accept.  
+1910. hold.  
+51. move.  
+1304. top.  

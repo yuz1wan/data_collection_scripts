@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Place the brush on the pen rack".
+There are 50 candidate verbs: 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1702. comb. The definition is: search thoroughly. The lexname is: contact. 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1019. publish. The definition is: have (one's written work) issued for publication. The lexname is: creation. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+
+Output Format Example:
+2099. brush.
+873. brush.
+Strictly follow the output format above. Do not output analysis. 

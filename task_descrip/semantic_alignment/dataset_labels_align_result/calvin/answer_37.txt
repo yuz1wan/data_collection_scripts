@@ -1,0 +1,10 @@
+2638. grasp.  
+2626. grip.  
+2144. open.  
+1488. unlock.  
+1321. lift.  
+2700. shove.  
+2624. grab.  
+1536. close.  
+2210. exit.  
+1772. turn.  

@@ -1,0 +1,10 @@
+596. rotate.  
+1976. crisscross.  
+1430. cut.  
+1088. rule.  
+1057. transform.  
+1214. superimpose.  
+515. fix.  
+262. neutralize.  
+2476. halt.  
+374. filter.  

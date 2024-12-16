@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Pick up the cup".
+There are 50 candidate verbs: 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+
+Output Format Example:
+1339. cup.
+2340. champion.
+Strictly follow the output format above. Do not output analysis. 

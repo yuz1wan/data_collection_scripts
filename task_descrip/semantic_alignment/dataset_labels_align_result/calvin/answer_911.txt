@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+1772. turn.  
+1976. crisscross.  
+1020. rearrange.  
+1057. transform.  
+1236. drug.  
+1430. cut.  
+2613. ridicule.  
+1612. test.  

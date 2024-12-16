@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+1772. turn.  
+2476. halt.  
+1020. rearrange.  
+1057. transform.  
+1418. spat.  
+1536. close.  
+1610. survey.  
+1943. collate.

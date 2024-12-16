@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Finish setting up the starting position of a chessboard that is almost arranged".
+There are 50 candidate verbs: 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+2075. dip. The definition is: appear to move downward. The lexname is: motion. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+1976. crisscross. The definition is: cross in a pattern, often random. The lexname is: motion. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1302. tile. The definition is: cover with tiles. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1982. consolidate. The definition is: bring together into a single whole or system. The lexname is: change. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+816. scramble. The definition is: to move hurriedly. The lexname is: motion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+
+Output Format Example:
+1472. disassemble.
+2452. install.
+Strictly follow the output format above. Do not output analysis. 

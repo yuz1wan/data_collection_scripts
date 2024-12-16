@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+1975. alternate.  
+1020. rearrange.  
+1057. transform.  
+1430. cut.  
+1162. close.  
+1214. superimpose.  
+1943. collate.  
+384. dislodge.  

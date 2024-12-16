@@ -1,0 +1,10 @@
+2626. grip.  
+1162. close.  
+1536. close.  
+2625. grasp.  
+2627. hold.  
+12. clip.  
+2457. set.  
+1491. unscrew.  
+388. excise.  
+1504. pry.  

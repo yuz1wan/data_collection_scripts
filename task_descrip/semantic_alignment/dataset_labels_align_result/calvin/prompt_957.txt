@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pull the drawer".
+There are 50 candidate verbs: 
+1149. pull. The definition is: take away. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1163. clutter. The definition is: fill a space in a disorderly way. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1912. run. The definition is: carry out. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2304. run. The definition is: carry out. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+469. plunder. The definition is: steal goods; take as spoils. The lexname is: possession. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+490. plunder. The definition is: steal goods; take as spoils. The lexname is: possession. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+
+Output Format Example:
+1149. pull.
+2456. put.
+Strictly follow the output format above. Do not output analysis. 

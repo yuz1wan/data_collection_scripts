@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "slide the block into the drawer".
+There are 50 candidate verbs: 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2479. discontinue. The definition is: put an end to a state or an activity. The lexname is: stative. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+
+Output Format Example:
+1162. close.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Insert the tip of a small pipette into the holder for small pipette tips".
+There are 50 candidate verbs: 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1208. implant. The definition is: become attached to and embedded in the uterus. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1019. publish. The definition is: have (one's written work) issued for publication. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1707. probe. The definition is: examine physically with or as if with a probe. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+
+Output Format Example:
+2457. set.
+1588. knife.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,10 @@
+2441. stack.  
+301. stratify.  
+1302. tile.  
+2001. connect.  
+2320. compose.  
+1943. collate.  
+221. even.  
+172. balance.  
+1322. lower.  
+2499. notch.  

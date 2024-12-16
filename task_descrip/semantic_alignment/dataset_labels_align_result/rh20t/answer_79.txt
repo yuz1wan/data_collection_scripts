@@ -1,0 +1,10 @@
+1369. open.  
+1844. wield.  
+2627. hold.  
+780. rotate.  
+1432. guide.  
+1598. examine.  
+2555. feel.  
+222. expand.  
+1536. close.  
+1772. turn.  

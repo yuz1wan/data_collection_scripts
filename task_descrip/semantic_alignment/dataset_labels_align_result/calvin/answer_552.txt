@@ -1,0 +1,10 @@
+1325. archive.  
+1333. box.  
+1499. draw.  
+1548. open.  
+1162. close.  
+1321. lift.  
+527. collect.  
+1910. hold.  
+2443. stuff.  
+1022. reorganize.  

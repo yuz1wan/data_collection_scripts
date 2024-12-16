@@ -1,0 +1,10 @@
+2055. flip.  
+2421. spread.  
+2494. flatten.  
+563. cover.  
+1002. fold.  
+1772. turn.  
+2011. roll.  
+1943. collate.  
+2430. wrap.  
+1500. hack.  

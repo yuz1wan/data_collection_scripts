@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sweep the pink block to the right".
+There are 50 candidate verbs: 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2290. direct. The definition is: command with authority. The lexname is: communication. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+
+Output Format Example:
+2122. sweep.
+2404. sweep.
+Strictly follow the output format above. Do not output analysis. 

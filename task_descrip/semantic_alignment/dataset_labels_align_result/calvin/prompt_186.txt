@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "push down the button to turn off the led light".
+There are 50 candidate verbs: 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+979. flash. The definition is: emit a brief burst of light. The lexname is: change. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+6. button. The definition is: fasten with buttons. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+963. tick. The definition is: make a sound like a clock or a timer. The lexname is: perception. 
+1088. rule. The definition is: decide with authority. The lexname is: cognition. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+
+Output Format Example:
+350. light.
+2096. lighten.
+Strictly follow the output format above. Do not output analysis. 

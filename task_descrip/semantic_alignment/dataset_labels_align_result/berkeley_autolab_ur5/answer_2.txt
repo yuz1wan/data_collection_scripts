@@ -1,0 +1,10 @@
+1339. cup.  
+2128. empty.  
+1953. beat.  
+1173. fill.  
+2500. hack.  
+1500. hack.  
+1687. dig.  
+1418. spat.  
+2512. punch.  
+278. reopen.  

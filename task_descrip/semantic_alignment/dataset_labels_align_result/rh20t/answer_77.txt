@@ -1,0 +1,10 @@
+1369. open.  
+2144. open.  
+1548. open.  
+278. reopen.  
+1504. pry.  
+395. pry.  
+148. overcook.  
+2301. cook.  
+142. cook.  
+1610. survey.  

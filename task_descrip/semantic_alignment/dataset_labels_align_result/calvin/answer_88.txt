@@ -1,0 +1,10 @@
+2638. grasp.  
+782. turn.  
+1558. turn.  
+513. fix.  
+851. guide.  
+1333. box.  
+2128. empty.  
+382. delete.  
+2476. halt.  
+1610. survey.  

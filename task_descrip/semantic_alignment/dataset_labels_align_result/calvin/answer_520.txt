@@ -1,0 +1,10 @@
+780. rotate.  
+1975. alternate.  
+1772. turn.  
+1430. cut.  
+1020. rearrange.  
+1540. cross.  
+2510. crop.  
+1302. tile.  
+1943. collate.  
+2491. cube.  

@@ -1,0 +1,10 @@
+2441. stack.  
+1205. arrange.  
+301. stratify.  
+2151. stand.  
+392. extrude.  
+2432. load.  
+2444. cram.  
+1277. roof.  
+1302. tile.  
+1020. rearrange.  

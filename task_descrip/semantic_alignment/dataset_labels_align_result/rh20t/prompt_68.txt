@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Open a sliding window".
+There are 50 candidate verbs: 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+263. open. The definition is: become open. The lexname is: contact. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+1835. shun. The definition is: avoid and stay away from deliberately; stay clear of. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+
+Output Format Example:
+1548. open.
+2144. open.
+Strictly follow the output format above. Do not output analysis. 

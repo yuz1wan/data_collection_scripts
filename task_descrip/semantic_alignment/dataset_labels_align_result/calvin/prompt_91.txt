@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "grasp the red block lying in the sliding cabinet".
+There are 50 candidate verbs: 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1279. rouge. The definition is: redden by applying rouge to. The lexname is: body. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+1563. clap. The definition is: clap one's hands together. The lexname is: body. 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2209. escape. The definition is: run away from confinement. The lexname is: motion. 
+2541. stub. The definition is: strike (one's toe) accidentally against an object. The lexname is: body. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2294. follow. The definition is: grasp the meaning. The lexname is: cognition. 
+217. empty. The definition is: become empty or void of its content. The lexname is: change. 
+2491. cube. The definition is: cut into cubes. The lexname is: contact. 
+2274. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+480. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1304. top. The definition is: cut the top off. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1599. inspect. The definition is: look over carefully. The lexname is: perception. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1318. drop. The definition is: let fall to the ground. The lexname is: motion. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+
+Output Format Example:
+2638. grasp.
+2625. grasp.
+Strictly follow the output format above. Do not output analysis. 

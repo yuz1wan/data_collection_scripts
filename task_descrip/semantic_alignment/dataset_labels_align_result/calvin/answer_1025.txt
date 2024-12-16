@@ -1,0 +1,10 @@
+2638. grasp.  
+1321. lift.  
+727. move.  
+1139. catch.  
+2627. hold.  
+2491. cube.  
+2017. pass.  
+1356. trap.  
+1500. hack.  
+361. elevate.  

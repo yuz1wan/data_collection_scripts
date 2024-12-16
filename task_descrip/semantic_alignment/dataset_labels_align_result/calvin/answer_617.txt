@@ -1,0 +1,10 @@
+2482. stop.  
+1413. cut.  
+1418. halt.  
+1772. turn.  
+1431. kill.  
+254. flash.  
+178. burn.  
+1162. close.  
+1548. open.  
+327. yellow.  

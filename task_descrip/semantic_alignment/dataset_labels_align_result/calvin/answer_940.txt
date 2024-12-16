@@ -1,0 +1,10 @@
+1772. turn.  
+2527. push.  
+1558. turn.  
+2475. cut_out.  
+2456. put.  
+1139. catch.  
+346. grade.  
+1430. cut.  
+2476. halt.  
+2400. move.  

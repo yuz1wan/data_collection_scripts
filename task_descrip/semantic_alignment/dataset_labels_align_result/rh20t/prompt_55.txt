@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Press the buttons on a row of four power strips to turn them on".
+There are 50 candidate verbs: 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+1481. unbutton. The definition is: undo the buttons of. The lexname is: contact. 
+1096. name. The definition is: charge with a function; charge to be. The lexname is: social. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+6. button. The definition is: fasten with buttons. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+
+Output Format Example:
+1192. plug.
+7. cable.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,10 @@
+2638. grasp.  
+596. rotate.  
+1776. keep.  
+1682. rock.  
+1712. turn.  
+2491. cube.  
+1536. close.  
+1214. superimpose.  
+1404. square.  
+382. delete.

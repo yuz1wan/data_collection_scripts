@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Sharpen the pencil with a pencil sharpener".
+There are 50 candidate verbs: 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+367. shrink. The definition is: become smaller or draw together. The lexname is: change. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+42. staple. The definition is: secure or fasten with a staple or staples. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1493. unstaple. The definition is: take the staples off. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2574. crayon. The definition is: write, draw, or trace with a crayon. The lexname is: creation. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2401. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2675. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+478. deprive. The definition is: take away. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+
+Output Format Example:
+2578. pencil.
+283. sharpen.
+Strictly follow the output format above. Do not output analysis. 

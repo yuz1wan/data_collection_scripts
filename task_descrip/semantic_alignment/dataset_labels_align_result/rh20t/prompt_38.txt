@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Stack the cups".
+There are 50 candidate verbs: 
+2441. stack. The definition is: arrange in stacks. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2471. meet. The definition is: collect in one place. The lexname is: social. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+532. group. The definition is: form a group or group together. The lexname is: competition. 
+1947. group. The definition is: form a group or group together. The lexname is: competition. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+194. collect. The definition is: get or bring together. The lexname is: contact. 
+527. collect. The definition is: get or bring together. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+272. quadruple. The definition is: increase fourfold. The lexname is: change. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2291. manage. The definition is: be in charge of, act on, or dispose of. The lexname is: social. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1153. overload. The definition is: become overloaded. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1944. collect. The definition is: gather or collect. The lexname is: possession. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1173. fill. The definition is: become full. The lexname is: change. 
+
+Output Format Example:
+2441. stack.
+1339. cup.
+Strictly follow the output format above. Do not output analysis. 

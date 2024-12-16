@@ -1,0 +1,10 @@
+2625. grasp.  
+1844. wield.  
+1488. unlock.  
+1548. open.  
+2640. grip.  
+2624. grab.  
+2700. shove.  
+1772. turn.  
+278. reopen.  
+1293. stopper.  

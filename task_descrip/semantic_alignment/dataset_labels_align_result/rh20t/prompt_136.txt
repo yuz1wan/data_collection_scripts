@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Chop the orange".
+There are 50 candidate verbs: 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2485. chip. The definition is: break a small piece off from. The lexname is: contact. 
+329. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2514. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+
+Output Format Example:
+2515. chop.
+1852. chop.
+Strictly follow the output format above. Do not output analysis. 

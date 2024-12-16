@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+1772. turn.  
+1322. lower.  
+1540. cross.  
+1430. cut.  
+1975. alternate.  
+1020. rearrange.  
+262. neutralize.  
+2517. hack.  

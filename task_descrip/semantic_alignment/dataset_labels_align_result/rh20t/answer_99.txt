@@ -1,0 +1,10 @@
+1351. shelve.  
+2456. put.  
+1325. archive.  
+1713. search.  
+387. eject.  
+1162. close.  
+1598. examine.  
+1599. inspect.  
+384. dislodge.  
+263. open.  

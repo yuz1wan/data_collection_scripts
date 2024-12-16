@@ -1,0 +1,10 @@
+2144. open.  
+278. reopen.  
+1492. unseal.  
+395. pry.  
+1504. pry.  
+2058. knock.  
+1333. box.  
+1162. close.  
+1430. cut.  
+467. eviscerate.  

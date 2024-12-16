@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Chop the potatoes".
+There are 50 candidate verbs: 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2485. chip. The definition is: break a small piece off from. The lexname is: contact. 
+329. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2514. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2265. slop. The definition is: ladle clumsily. The lexname is: contact. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1304. top. The definition is: cut the top off. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+
+Output Format Example:
+2515. chop.
+1852. chop.
+Strictly follow the output format above. Do not output analysis. 

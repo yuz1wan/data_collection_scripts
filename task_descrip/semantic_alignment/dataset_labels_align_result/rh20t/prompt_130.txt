@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Chop the chili peppers".
+There are 50 candidate verbs: 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1268. pepper. The definition is: add pepper to. The lexname is: perception. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2514. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2485. chip. The definition is: break a small piece off from. The lexname is: contact. 
+329. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2265. slop. The definition is: ladle clumsily. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1149. pull. The definition is: take away. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+899. chew. The definition is: chew (food); to bite and grind with the teeth. The lexname is: consumption. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+
+Output Format Example:
+2515. chop.
+1852. chop.
+Strictly follow the output format above. Do not output analysis. 

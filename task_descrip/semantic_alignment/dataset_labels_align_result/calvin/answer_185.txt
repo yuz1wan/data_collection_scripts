@@ -1,0 +1,10 @@
+1966. toggle.  
+1772. turn.  
+6. button.  
+350. light.  
+1162. close.  
+2482. stop.  
+382. delete.  
+279. nudge.  
+1713. search.  
+2452. install.  

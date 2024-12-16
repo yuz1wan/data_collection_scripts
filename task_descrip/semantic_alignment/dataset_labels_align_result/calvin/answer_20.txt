@@ -1,0 +1,10 @@
+2032. push.  
+2482. stop.  
+2476. halt.  
+1149. pull.  
+1162. close.  
+387. eject.  
+1450. cut.  
+1510. push.  
+2700. shove.  
+1450. end.

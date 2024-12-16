@@ -1,0 +1,10 @@
+1772. turn.  
+1558. turn.  
+782. turn.  
+2475. cut_out.  
+2482. stop.  
+202. deepen.  
+1057. transform.  
+1996. blend.  
+1430. cut.  
+61. return.  

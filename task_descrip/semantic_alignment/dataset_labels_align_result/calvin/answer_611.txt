@@ -1,0 +1,10 @@
+502. take.  
+2491. cube.  
+1333. box.  
+1497. break.  
+2510. crop.  
+2476. halt.  
+2517. hack.  
+1385. spew.  
+2364. witness.  
+2556. notice.  

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Chop the scallions".
+There are 50 candidate verbs: 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2265. slop. The definition is: ladle clumsily. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+
+Output Format Example:
+2515. chop.
+1852. chop.
+Strictly follow the output format above. Do not output analysis. 

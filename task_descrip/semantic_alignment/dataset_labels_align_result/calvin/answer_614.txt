@@ -1,0 +1,10 @@
+1548. open.  
+1536. close.  
+2700. shove.  
+2644. nudge.  
+2456. put.  
+278. reopen.  
+384. dislodge.  
+1162. close.  
+2664. strike.  
+2210. exit.  

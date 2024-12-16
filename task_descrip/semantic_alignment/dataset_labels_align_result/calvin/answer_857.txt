@@ -1,0 +1,10 @@
+2625. grasp.  
+2624. grab.  
+2627. hold.  
+2640. grip.  
+1852. chop.  
+1497. break.  
+1821. tool.  
+1844. wield.  
+2304. get_hold_of.  
+1304. top.  

@@ -1,0 +1,10 @@
+1369. open.  
+1494. untie.  
+1497. break.  
+1504. pry.  
+2430. wrap.  
+1002. fold.  
+222. expand.  
+263. open.  
+278. reopen.  
+1943. collate.  

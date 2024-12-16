@@ -1,0 +1,10 @@
+777. slide.  
+1772. turn.  
+841. yaw.  
+2087. slip.  
+2476. halt.  
+540. lean.  
+1211. situate.  
+452. clean.  
+2456. put.  
+387. eject.  

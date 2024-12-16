@@ -1,0 +1,10 @@
+2638. grasp.  
+780. rotate.  
+1772. turn.  
+2128. empty.  
+2510. crop.  
+2491. cube.  
+1614. watch.  
+2625. grasp.  
+1162. close.  
+1430. cut.  

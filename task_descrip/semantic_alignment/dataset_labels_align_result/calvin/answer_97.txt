@@ -1,0 +1,10 @@
+2638. grasp.  
+780. rotate.  
+1772. turn.  
+1162. close.  
+1333. box.  
+2476. halt.  
+1610. survey.  
+1614. watch.  
+2554. detect.  
+1510. hack.  

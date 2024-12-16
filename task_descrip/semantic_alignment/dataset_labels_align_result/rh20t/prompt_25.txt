@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Use the gripper to push and close the drawer".
+There are 50 candidate verbs: 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+1163. clutter. The definition is: fill a space in a disorderly way. The lexname is: change. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+2208. disembark. The definition is: go ashore. The lexname is: motion. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+
+Output Format Example:
+1499. draw.
+1293. stopper.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,10 @@
+2625. grasp.  
+2456. put.  
+1369. open.  
+1548. open.  
+2128. empty.  
+795. climb.  
+1333. box.  
+1351. shelve.  
+540. lean.  
+2058. knock.  

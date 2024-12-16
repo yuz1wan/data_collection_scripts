@@ -1,0 +1,10 @@
+2638. grasp.  
+2624. grab.  
+2640. grip.  
+2627. hold.  
+1588. knife.  
+1351. shelve.  
+2128. empty.  
+1844. wield.  
+1845. handle.  
+795. climb.  

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Turn off the water tap".
+There are 50 candidate verbs: 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+497. take. The definition is: take by force. The lexname is: possession. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+
+Output Format Example:
+1310. water.
+1772. turn.
+Strictly follow the output format above. Do not output analysis. 

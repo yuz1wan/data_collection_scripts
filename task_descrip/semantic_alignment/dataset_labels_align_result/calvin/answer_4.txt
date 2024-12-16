@@ -1,0 +1,10 @@
+1321. lift.  
+1351. shelve.  
+2456. put.  
+1338. crate.  
+450. clean.  
+2491. cube.  
+1821. tool.  
+2328. dig.  
+1162. close.  
+1503. knock.  

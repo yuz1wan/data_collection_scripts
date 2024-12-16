@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Unfold the leg of the glasses (with one hand)".
+There are 50 candidate verbs: 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1632. goggle. The definition is: look with amazement; look stupidly. The lexname is: perception. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1543. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+1038. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+
+Output Format Example:
+1610. survey.
+1162. close.
+Strictly follow the output format above. Do not output analysis. 

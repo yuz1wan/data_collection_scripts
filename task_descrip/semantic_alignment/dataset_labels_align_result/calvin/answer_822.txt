@@ -1,0 +1,10 @@
+2638. grasp.  
+1863. swipe.  
+2700. shove.  
+124. get_hold_of.  
+2001. connect.  
+1497. break.  
+1276. drag.  
+1510. guide.  
+1772. turn.  
+2421. spread.  

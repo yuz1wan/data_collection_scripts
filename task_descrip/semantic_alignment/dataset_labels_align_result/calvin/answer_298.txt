@@ -1,0 +1,10 @@
+2638. grasp.  
+1845. handle.  
+2624. grab.  
+2626. grip.  
+2144. open.  
+1488. unlock.  
+2700. shove.  
+2623. clasp.  
+1772. turn.  
+278. reopen.  

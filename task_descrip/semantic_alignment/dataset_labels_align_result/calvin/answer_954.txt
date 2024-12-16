@@ -1,0 +1,10 @@
+1772. turn.
+2476. halt.
+2482. stop.
+2456. put.
+395. pry.
+851. guide.
+1558. turn.
+1062. fit.
+1500. hack.
+1434. continue.

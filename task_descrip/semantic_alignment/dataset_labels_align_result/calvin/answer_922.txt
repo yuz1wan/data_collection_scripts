@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+1322. lower.  
+1540. cross.  
+1020. rearrange.  
+1830. reduce.  
+1975. alternate.  
+1214. superimpose.  
+384. dislodge.  
+1333. box.  

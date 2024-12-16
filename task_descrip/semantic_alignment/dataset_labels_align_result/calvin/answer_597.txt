@@ -1,0 +1,10 @@
+1966. toggle.  
+350. light.  
+1772. turn.  
+6. button.  
+1192. plug.  
+984. glow.  
+979. flash.  
+382. delete.  
+311. tighten.  
+2452. install.  

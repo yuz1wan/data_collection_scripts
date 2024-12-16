@@ -1,0 +1,10 @@
+2476. halt.  
+1772. turn.  
+2456. put.  
+2482. stop.  
+782. turn.  
+727. move.  
+1504. pry.  
+1062. fit.  
+1657. go_on.  
+1430. cut.  

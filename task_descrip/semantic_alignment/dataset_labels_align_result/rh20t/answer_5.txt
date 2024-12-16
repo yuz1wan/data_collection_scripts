@@ -1,0 +1,10 @@
+2640. grip.  
+2626. grip.  
+1772. turn.  
+128. drive.  
+74. drag.  
+2144. open.  
+392. extrude.  
+2627. hold.  
+1500. hack.  
+1844. wield.  

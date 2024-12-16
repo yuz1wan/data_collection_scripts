@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "take the red block and rotate it right".
+There are 50 candidate verbs: 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1540. cross. The definition is: fold so as to resemble a cross. The lexname is: motion. 
+1983. contrast. The definition is: to show differences when compared; be different. The lexname is: stative. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1302. tile. The definition is: cover with tiles. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1088. rule. The definition is: decide with authority. The lexname is: cognition. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1976. crisscross. The definition is: cross in a pattern, often random. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2491. cube. The definition is: cut into cubes. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+
+Output Format Example:
+596. rotate.
+780. rotate.
+Strictly follow the output format above. Do not output analysis. 

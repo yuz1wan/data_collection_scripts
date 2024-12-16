@@ -1,0 +1,10 @@
+2625. grasp.  
+2627. hold.  
+596. rotate.  
+780. rotate.  
+1772. turn.  
+1430. cut.  
+2491. cube.  
+1500. hack.  
+2421. spread.  
+2476. halt.  

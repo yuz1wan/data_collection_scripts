@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Cut the cucumber into segments".
+There are 50 candidate verbs: 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1007. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+2663. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+1890. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+2505. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+
+Output Format Example:
+152. pickle.
+1588. knife.
+Strictly follow the output format above. Do not output analysis. 

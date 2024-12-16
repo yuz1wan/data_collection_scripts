@@ -1,0 +1,10 @@
+1321. lift.  
+2456. put.  
+1852. chop.  
+1500. hack.  
+1333. box.  
+2491. cube.  
+613. raise.  
+1534. grasp.  
+1925. carry.  
+2435. remove.  

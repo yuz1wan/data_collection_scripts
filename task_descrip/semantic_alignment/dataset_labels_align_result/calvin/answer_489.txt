@@ -1,0 +1,10 @@
+780. rotate.  
+1540. cross.  
+1772. turn.  
+1020. rearrange.  
+2510. crop.  
+1430. cut.  
+1976. crisscross.  
+382. delete.  
+1404. square.  
+2615. satirize.  

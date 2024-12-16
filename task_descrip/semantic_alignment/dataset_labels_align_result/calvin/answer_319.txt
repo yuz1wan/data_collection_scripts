@@ -1,0 +1,10 @@
+780. rotate.  
+1976. crisscross.  
+1610. survey.  
+1635. look.  
+2491. cube.  
+1302. tile.  
+1540. cross.  
+1776. keep.  
+1774. sound.  
+1717. watch.  

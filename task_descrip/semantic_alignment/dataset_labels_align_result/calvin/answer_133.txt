@@ -1,0 +1,10 @@
+1321. lift.  
+1351. shelve.  
+2456. put.  
+2442. stock.  
+1682. rock.  
+1304. top.  
+1878. knife.  
+2328. dig.  
+1338. crate.  
+2449. build-in.  

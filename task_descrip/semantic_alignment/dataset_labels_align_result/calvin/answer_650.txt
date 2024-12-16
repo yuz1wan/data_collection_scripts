@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+1772. turn.  
+1976. crisscross.  
+1540. cross.  
+1430. cut.  
+1020. rearrange.  
+2510. crop.  
+2491. cube.  
+346. grade.  

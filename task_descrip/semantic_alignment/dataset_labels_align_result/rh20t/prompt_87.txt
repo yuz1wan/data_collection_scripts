@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Approach and touch an object with obstacles".
+There are 50 candidate verbs: 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1486. unhitch. The definition is: unfasten or release from or as if from a hitch. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1957. attach. The definition is: become attached. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+527. collect. The definition is: get or bring together. The lexname is: contact. 
+194. collect. The definition is: get or bring together. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1858. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+2522. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2116. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+2551. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1471. detach. The definition is: cause to become detached or separated; take off. The lexname is: contact. 
+
+Output Format Example:
+2651. touch.
+763. touch.
+Strictly follow the output format above. Do not output analysis. 

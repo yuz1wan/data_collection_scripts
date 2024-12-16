@@ -1,0 +1,10 @@
+782. turn.  
+176. brighten.  
+979. flash.  
+984. glow.  
+987. shine.  
+1369. open.  
+2456. put.  
+2452. install.  
+2456. plug.  
+2237. change.  

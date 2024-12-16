@@ -1,0 +1,10 @@
+1772. turn.  
+1558. turn.  
+782. turn.  
+2476. halt.  
+1975. alternate.  
+61. return.  
+1434. continue.  
+2482. stop.  
+515. fix.  
+221. even.  

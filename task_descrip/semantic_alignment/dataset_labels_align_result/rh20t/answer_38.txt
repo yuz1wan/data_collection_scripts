@@ -1,0 +1,10 @@
+2441. stack.  
+1339. cup.  
+1162. close.  
+1344. jar.  
+1376. stand.  
+523. accumulate.  
+1947. group.  
+194. collect.  
+1211. situate.  
+2447. pack.  

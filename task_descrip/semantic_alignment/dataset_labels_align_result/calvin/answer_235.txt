@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+172. turn.  
+1976. crisscross.  
+1020. rearrange.  
+1638. peer.  
+1214. superimpose.  
+1473. pare.  
+346. grade.  
+1088. rule.  

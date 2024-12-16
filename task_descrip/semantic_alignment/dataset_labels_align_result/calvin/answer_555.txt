@@ -1,0 +1,10 @@
+2625. grasp.  
+1845. handle.  
+2627. hold.  
+1162. close.  
+1548. open.  
+2624. grab.  
+2700. shove.  
+2647. pinch.  
+1333. box.  
+1492. unseal.  

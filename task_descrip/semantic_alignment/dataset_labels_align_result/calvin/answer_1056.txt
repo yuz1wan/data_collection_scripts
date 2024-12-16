@@ -1,0 +1,10 @@
+2625. grasp.  
+596. rotate.  
+1772. turn.  
+1139. catch.  
+851. guide.  
+2475. cut_out.  
+1540. cross.  
+1976. crisscross.  
+2491. cube.  
+1440. move.  

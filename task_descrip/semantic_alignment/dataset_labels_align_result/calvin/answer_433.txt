@@ -1,0 +1,10 @@
+782. turn.  
+1772. turn.  
+1558. turn.  
+2144. open.  
+1369. open.  
+1548. open.  
+1192. plug.  
+2452. install.  
+311. tighten.  
+350. light.  

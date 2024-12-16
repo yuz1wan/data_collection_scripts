@@ -1,0 +1,10 @@
+1321. lift.  
+421. unload.  
+2456. put.  
+1351. shelve.  
+1369. open.  
+2442. stock.  
+328. break.  
+1943. collate.  
+1338. crate.  
+1536. close.  

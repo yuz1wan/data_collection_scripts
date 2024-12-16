@@ -1,0 +1,10 @@
+1772. turn.  
+2476. halt.  
+1558. turn.  
+2482. stop.  
+1504. pry.  
+851. guide.  
+2456. put.  
+1333. box.  
+1430. cut.  
+1831. restrict.  

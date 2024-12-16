@@ -1,0 +1,10 @@
+2450. deposit.  
+2386. cash.  
+2375. donate.  
+2563. pay.  
+2381. sell.  
+2379. give.  
+204. degrade.  
+1332. bottle.  
+2630. contribute.  
+523. accumulate.  

@@ -1,0 +1,10 @@
+596. rotate.  
+1540. cross.  
+1976. crisscross.  
+1772. turn.  
+1322. lower.  
+2504. shift.  
+1057. transform.  
+1020. rearrange.  
+1430. cut.  
+2510. crop.  

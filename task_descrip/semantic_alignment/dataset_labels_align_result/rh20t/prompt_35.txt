@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Stack the blocks in a vertical line of five".
+There are 50 candidate verbs: 
+2441. stack. The definition is: arrange in stacks. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+301. stratify. The definition is: form layers or strata. The lexname is: change. 
+2003. pair. The definition is: arrange in pairs. The lexname is: contact. 
+2137. total. The definition is: add up in number or quantity. The lexname is: stative. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2491. cube. The definition is: cut into cubes. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+1976. crisscross. The definition is: cross in a pattern, often random. The lexname is: motion. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+1205. arrange. The definition is: put into a proper or systematic order. The lexname is: contact. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+570. line. The definition is: be in line with; form a line along. The lexname is: stative. 
+252. level. The definition is: become level or even. The lexname is: change. 
+400. subtract. The definition is: make a subtraction. The lexname is: cognition. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+1914. be. The definition is: be identical to; be someone or something. The lexname is: stative. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1540. cross. The definition is: fold so as to resemble a cross. The lexname is: motion. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+499. cost. The definition is: be priced at. The lexname is: stative. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1302. tile. The definition is: cover with tiles. The lexname is: contact. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+316. triple. The definition is: increase threefold. The lexname is: change. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+272. quadruple. The definition is: increase fourfold. The lexname is: change. 
+1917. represent. The definition is: take the place of or be parallel or equivalent to. The lexname is: stative. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+
+Output Format Example:
+2441. stack.
+346. grade.
+Strictly follow the output format above. Do not output analysis. 

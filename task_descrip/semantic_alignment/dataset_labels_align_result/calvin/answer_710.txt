@@ -1,0 +1,10 @@
+1772. turn.  
+782. turn.  
+1558. turn.  
+2210. exit.  
+2144. open.  
+1369. open.  
+178. burn.  
+311. tighten.  
+1192. plug.  
+350. light.  

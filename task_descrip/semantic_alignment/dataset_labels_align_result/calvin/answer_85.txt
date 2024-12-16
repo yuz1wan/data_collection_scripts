@@ -1,0 +1,10 @@
+2638. grasp.  
+1772. turn.  
+782. turn.  
+1558. turn.  
+851. guide.  
+1852. chop.  
+1500. hack.  
+1333. box.  
+2475. cut_out.  
+1975. alternate.  

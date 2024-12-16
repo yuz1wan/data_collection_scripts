@@ -1,0 +1,10 @@
+2638. grasp.  
+780. rotate.  
+1772. turn.  
+1976. crisscross.  
+1540. cross.  
+2491. cube.  
+1404. square.  
+1510. hack.  
+1333. box.  
+2554. detect.  

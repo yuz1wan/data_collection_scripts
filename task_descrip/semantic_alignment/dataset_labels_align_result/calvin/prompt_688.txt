@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "grasp the door handle and move the door to the left".
+There are 50 candidate verbs: 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+263. open. The definition is: become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2210. exit. The definition is: move out of or depart from. The lexname is: motion. 
+25. lock. The definition is: fasten with a lock. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2623. clasp. The definition is: hold firmly and tightly. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+
+Output Format Example:
+2625. grasp.
+2638. grasp.
+Strictly follow the output format above. Do not output analysis. 

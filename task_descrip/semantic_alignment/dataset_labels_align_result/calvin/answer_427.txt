@@ -1,0 +1,10 @@
+1369. open.  
+278. reopen.  
+1492. unseal.  
+1162. close.  
+1655. run.  
+1658. run.  
+1027. bake.  
+1503. knock.  
+1910. hold.  
+1022. reorganize.  

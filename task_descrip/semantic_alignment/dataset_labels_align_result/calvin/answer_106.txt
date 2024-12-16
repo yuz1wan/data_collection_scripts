@@ -1,0 +1,10 @@
+1558. turn.  
+1776. keep.  
+2456. put.  
+2475. cut_out.  
+1510. pry.  
+1774. sound.  
+727. move.  
+2482. stop.  
+2476. halt.  
+1772. turn.  

@@ -1,0 +1,10 @@
+2638. grasp.  
+2625. grasp.  
+596. rotate.  
+780. rotate.  
+1772. turn.  
+1682. rock.  
+595. rock.  
+1214. superimpose.  
+1500. hack.  
+2510. crop.  

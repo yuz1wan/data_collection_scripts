@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Transfer all small pipette tips from one rack to another holder for small pipette tips".
+There are 50 candidate verbs: 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1965. splice. The definition is: join by interweaving strands. The lexname is: contact. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+1788. transcribe. The definition is: make a phonetic transcription of. The lexname is: communication. 
+41. solder. The definition is: join or fuse with solder. The lexname is: contact. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1019. publish. The definition is: have (one's written work) issued for publication. The lexname is: creation. 
+1974. match. The definition is: bring two objects, ideas, or people together. The lexname is: contact. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+398. separate. The definition is: divide into components or constituents. The lexname is: contact. 
+1205. arrange. The definition is: put into a proper or systematic order. The lexname is: contact. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+2121. swab. The definition is: wash with a swab or a mop. The lexname is: contact. 
+2428. swab. The definition is: wash with a swab or a mop. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1208. implant. The definition is: become attached to and embedded in the uterus. The lexname is: contact. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+535. mass. The definition is: join together into a mass or collect or form a mass. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1781. duplicate. The definition is: make a duplicate or duplicates of. The lexname is: creation. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1707. probe. The definition is: examine physically with or as if with a probe. The lexname is: contact. 
+
+Output Format Example:
+1340. file.
+2457. set.
+Strictly follow the output format above. Do not output analysis. 

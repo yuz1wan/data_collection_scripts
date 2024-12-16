@@ -1,0 +1,10 @@
+2638. grasp.  
+2625. grasp.  
+780. rotate.  
+596. rotate.  
+1772. turn.  
+1139. catch.  
+2476. halt.  
+595. rock.  
+1776. keep.  
+2627. hold.  

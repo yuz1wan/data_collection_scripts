@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "move the light switch to turn off the yellow light".
+There are 50 candidate verbs: 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+979. flash. The definition is: emit a brief burst of light. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+327. yellow. The definition is: turn yellow. The lexname is: change. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+2210. exit. The definition is: move out of or depart from. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+987. shine. The definition is: emit light; be bright, as of the sun or a light. The lexname is: weather. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+985. incandesce. The definition is: become incandescent or glow with heat. The lexname is: change. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+963. tick. The definition is: make a sound like a clock or a timer. The lexname is: perception. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+
+Output Format Example:
+350. light.
+984. glow.
+Strictly follow the output format above. Do not output analysis. 

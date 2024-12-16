@@ -1,0 +1,10 @@
+2625. grasp.  
+2624. grab.  
+2626. grip.  
+2627. hold.  
+1333. box.  
+1338. crate.  
+2128. empty.  
+2515. chop.  
+2673. kick.  
+1318. drop.  

@@ -1,0 +1,10 @@
+1351. shelve.  
+2456. put.  
+2151. stand.  
+395. pry.  
+1333. box.  
+2388. get.  
+1614. watch.  
+1717. watch.  
+2565. become.  
+990. accept.  

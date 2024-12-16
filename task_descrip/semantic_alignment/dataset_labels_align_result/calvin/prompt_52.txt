@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "toggle the button to turn off the led light".
+There are 50 candidate verbs: 
+1966. toggle. The definition is: fasten with, or as if with, a toggle. The lexname is: contact. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+6. button. The definition is: fasten with buttons. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+963. tick. The definition is: make a sound like a clock or a timer. The lexname is: perception. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+979. flash. The definition is: emit a brief burst of light. The lexname is: change. 
+1140. choose. The definition is: select as an alternative over another. The lexname is: cognition. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1088. rule. The definition is: decide with authority. The lexname is: cognition. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+
+Output Format Example:
+1966. toggle.
+350. light.
+Strictly follow the output format above. Do not output analysis. 

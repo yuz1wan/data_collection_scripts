@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Chop the onions".
+There are 50 candidate verbs: 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+
+Output Format Example:
+2515. chop.
+1852. chop.
+Strictly follow the output format above. Do not output analysis. 

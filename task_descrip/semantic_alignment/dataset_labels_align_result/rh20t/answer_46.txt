@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+782. turn.  
+1558. turn.  
+1772. turn.  
+2232. navigate.  
+841. yaw.  
+2189. race.  
+2476. halt.  
+1211. situate.  

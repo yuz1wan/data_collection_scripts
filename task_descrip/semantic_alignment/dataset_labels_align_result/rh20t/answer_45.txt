@@ -1,0 +1,10 @@
+497. take.  
+1139. catch.  
+1369. open.  
+1548. open.  
+221. even.  
+1944. collect.  
+1304. top.  
+1829. raise.  
+61. return.  
+1356. trap.  

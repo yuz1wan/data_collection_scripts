@@ -1,0 +1,10 @@
+2625. grasp.  
+1772. turn.  
+1558. turn.  
+1536. close.  
+515. fix.  
+851. guide.  
+2480. end.  
+382. delete.  
+1404. square.  
+2491. cube.  

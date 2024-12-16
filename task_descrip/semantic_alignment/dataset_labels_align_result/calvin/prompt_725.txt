@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "lift the red block in the drawer".
+There are 50 candidate verbs: 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+275. redden. The definition is: turn red or redder. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+
+Output Format Example:
+1333. box.
+1321. lift.
+Strictly follow the output format above. Do not output analysis. 

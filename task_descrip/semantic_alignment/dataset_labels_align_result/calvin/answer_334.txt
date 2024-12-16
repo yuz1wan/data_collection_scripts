@@ -1,0 +1,10 @@
+2638. grasp.  
+1772. turn.  
+2627. hold.  
+1558. turn.  
+782. turn.  
+515. fix.  
+2400. move.  
+2491. cube.  
+1510. pass.  
+217. empty.  

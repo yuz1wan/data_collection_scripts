@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Plug in the USB drive to the docking station".
+There are 50 candidate verbs: 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1620. note. The definition is: make a written note of. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1096. name. The definition is: charge with a function; charge to be. The lexname is: social. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1601. monitor. The definition is: keep tabs on; keep an eye on; keep under surveillance. The lexname is: perception. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1090. term. The definition is: name formally or designate with a term. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1085. dub. The definition is: give a nickname to. The lexname is: communication. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1915. denote. The definition is: have as a meaning. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+84. explain. The definition is: define. The lexname is: communication. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+963. tick. The definition is: make a sound like a clock or a timer. The lexname is: perception. 
+
+Output Format Example:
+1192. plug.
+1787. record.
+Strictly follow the output format above. Do not output analysis. 

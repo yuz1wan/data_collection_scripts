@@ -1,0 +1,10 @@
+2638. grasp.  
+2625. grasp.  
+596. rotate.  
+780. rotate.  
+2075. dip.  
+2491. cube.  
+1302. tile.  
+2128. empty.  
+515. fix.  
+2547. hurt.  

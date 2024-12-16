@@ -1,0 +1,10 @@
+2638. grasp.  
+1772. turn.  
+2627. hold.  
+1558. turn.  
+515. fix.  
+2491. cube.  
+2402. move.  
+1346. cut.  
+1823. guide.  
+382. delete.  

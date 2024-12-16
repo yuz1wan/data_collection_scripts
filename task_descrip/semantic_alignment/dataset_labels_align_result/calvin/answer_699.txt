@@ -1,0 +1,10 @@
+350. light.  
+176. brighten.  
+979. flash.  
+984. glow.  
+987. shine.  
+1430. cut.  
+1410. become.  
+178. burn.  
+1149. pull.  
+2480. end.  

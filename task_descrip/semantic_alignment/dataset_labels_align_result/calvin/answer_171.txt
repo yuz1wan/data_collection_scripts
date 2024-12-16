@@ -1,0 +1,10 @@
+2638. grasp.  
+2625. grasp.  
+2624. grab.  
+1497. break.  
+328. break.  
+2627. hold.  
+1821. tool.  
+1333. box.  
+1430. cut.  
+1492. unseal.  

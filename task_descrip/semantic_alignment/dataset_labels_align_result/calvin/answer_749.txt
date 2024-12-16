@@ -1,0 +1,10 @@
+2625. grasp.  
+727. move.  
+2627. hold.  
+2480. end.  
+1057. transform.  
+1333. box.  
+359. contract.  
+2476. halt.  
+222. expand.  
+1852. chop.  

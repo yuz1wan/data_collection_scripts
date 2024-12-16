@@ -1,0 +1,10 @@
+2314. microwave.  
+147. microwave.  
+2301. cook.  
+142. cook.  
+148. overcook.  
+178. burn.  
+2317. roast.  
+2308. boil.  
+1339. cup.  
+2265. slop.  

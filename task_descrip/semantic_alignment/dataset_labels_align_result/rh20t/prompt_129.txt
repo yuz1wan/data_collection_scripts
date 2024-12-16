@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Chop the green garlic".
+There are 50 candidate verbs: 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+427. bone. The definition is: remove the bones from. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+
+Output Format Example:
+2515. chop.
+1852. chop.
+Strictly follow the output format above. Do not output analysis. 

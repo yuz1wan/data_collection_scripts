@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "push down the button to turn on the led".
+There are 50 candidate verbs: 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+6. button. The definition is: fasten with buttons. The lexname is: contact. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+979. flash. The definition is: emit a brief burst of light. The lexname is: change. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+2482. stop. The definition is: come to a halt, stop moving. The lexname is: motion. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+
+Output Format Example:
+1772. turn.
+782. turn.
+Strictly follow the output format above. Do not output analysis. 

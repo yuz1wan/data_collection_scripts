@@ -1,0 +1,10 @@
+596. rotate.  
+780. rotate.  
+1772. turn.  
+2476. halt.  
+1020. rearrange.  
+1057. transform.  
+374. filter.  
+1615. behold.  
+1510. adjust.  
+1430. cut.  

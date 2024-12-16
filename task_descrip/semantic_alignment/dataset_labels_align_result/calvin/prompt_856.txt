@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "toggle the light switch to turn on the yellow light".
+There are 50 candidate verbs: 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+1966. toggle. The definition is: fasten with, or as if with, a toggle. The lexname is: contact. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+979. flash. The definition is: emit a brief burst of light. The lexname is: change. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+987. shine. The definition is: emit light; be bright, as of the sun or a light. The lexname is: weather. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+327. yellow. The definition is: turn yellow. The lexname is: change. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+25. lock. The definition is: fasten with a lock. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+989. twinkle. The definition is: emit or reflect light in a flickering manner. The lexname is: weather. 
+985. incandesce. The definition is: become incandescent or glow with heat. The lexname is: change. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+963. tick. The definition is: make a sound like a clock or a timer. The lexname is: perception. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+20. hinge. The definition is: attach with a hinge. The lexname is: contact. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+
+Output Format Example:
+350. light.
+2096. lighten.
+Strictly follow the output format above. Do not output analysis. 

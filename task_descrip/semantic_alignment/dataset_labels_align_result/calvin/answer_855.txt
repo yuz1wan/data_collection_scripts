@@ -1,0 +1,10 @@
+2699. push.  
+2402. push.  
+1506. push.  
+2032. push.  
+782. turn.  
+1558. turn.  
+1504. pry.  
+2700. shove.  
+278. reopen.  
+1162. close.  

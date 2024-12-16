@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Slice the carrots".
+There are 50 candidate verbs: 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2503. slit. The definition is: cut a slit into. The lexname is: contact. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2498. nick. The definition is: cut a nick into. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+387. eject. The definition is: put out or expel from a place. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+
+Output Format Example:
+2502. slice.
+1859. slice.
+Strictly follow the output format above. Do not output analysis. 

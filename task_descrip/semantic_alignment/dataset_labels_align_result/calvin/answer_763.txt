@@ -1,0 +1,10 @@
+2624. grab.  
+2638. grasp.  
+267. hold.  
+1878. knife.  
+2017. pass.  
+1333. box.  
+2128. empty.  
+1497. break.  
+1356. trap.  
+515. fix.  

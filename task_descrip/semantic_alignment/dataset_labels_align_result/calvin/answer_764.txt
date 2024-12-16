@@ -1,0 +1,10 @@
+596. rotate.  
+1772. turn.  
+2075. dip.  
+1322. lower.  
+1020. rearrange.  
+2491. cube.  
+1404. square.  
+1214. superimpose.  
+2430. wrap.  
+1465. shift.  

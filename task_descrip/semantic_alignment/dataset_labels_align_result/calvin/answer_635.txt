@@ -1,0 +1,10 @@
+2625. grasp.  
+596. rotate.  
+1772. turn.  
+727. move.  
+2491. cube.  
+217. empty.  
+2444. cram.  
+2627. hold.  
+1536. close.  
+2476. halt.  

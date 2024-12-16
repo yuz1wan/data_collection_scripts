@@ -1,0 +1,10 @@
+596. rotate.  
+1976. crisscross.  
+374. filter.  
+1430. cut.  
+1057. transform.  
+1214. superimpose.  
+515. fix.  
+2476. halt.  
+1614. watch.  
+1627. witness.  

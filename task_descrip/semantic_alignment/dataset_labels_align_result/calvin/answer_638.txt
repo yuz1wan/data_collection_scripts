@@ -1,0 +1,10 @@
+2638. grasp.  
+2625. grasp.  
+780. rotate.  
+596. rotate.  
+1772. turn.  
+595. rock.  
+1139. catch.  
+2671. move.  
+1500. hack.  
+1610. survey.  

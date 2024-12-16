@@ -1,0 +1,10 @@
+2447. pack.  
+502. take.  
+2379. give.  
+2398. dump.  
+401. take_away.  
+2456. put.  
+523. accumulate.  
+1504. pry.  
+1444. shame.  
+1610. survey.  

@@ -1,0 +1,10 @@
+780. rotate.  
+1772. turn.  
+1536. close.  
+1020. rearrange.  
+1404. square.  
+1540. cross.  
+1062. fit.  
+1322. lower.  
+1615. behold.  
+374. filter.  
